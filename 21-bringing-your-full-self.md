@@ -38,10 +38,10 @@ The good people at Dropbox has created a [Virtual First Toolkit](https://experie
 >
 > The challenge is to create an environment that’s conducive to productivity within a space that you’ve designed for, well, living. Here are some tips for creating physical and mental boundaries that will help you stay focused:
 >
-> * **Make a plan. It helps to assign yourself mini-deadlines, or plot out chunks of the day for working on specific tasks.**
-> * **Communicate. Let the people you live with know when you need quiet time and when you’ll be available again. The same goes for your coworkers. Block off both on your calendar.**
-> * **Limit temptations. Sometimes facing away from something is all it takes to lessen its grip on you. It could be the TV, the fridge, or even the apps on your phone.**
-> * **Quiet notifications. Everything competes for our attention these days, but not all alerts are created equal. Decide which are actually helpful—like meeting reminders—and quiet the rest.**
-> * **Remember your rituals. When you punctuate every day with activities that make you feel good, it’s easier to stay focused and positive when doing work.**
+> * **Make a plan.** It helps to assign yourself mini-deadlines, or plot out chunks of the day for working on specific tasks.**
+> * **Communicate.** Let the people you live with know when you need quiet time and when you’ll be available again. The same goes for your coworkers. Block off both on your calendar.
+> * **Limit temptations.** Sometimes facing away from something is all it takes to lessen its grip on you. It could be the TV, the fridge, or even the apps on your phone.
+> * **Quiet notifications.** Everything competes for our attention these days, but not all alerts are created equal. Decide which are actually helpful—like meeting reminders—and quiet the rest.
+> * **Remember your rituals.** When you punctuate every day with activities that make you feel good, it’s easier to stay focused and positive when doing work.
 
 The entire toolkit is a great resource for everyone from WFH novices to people who have been doing this for years.
