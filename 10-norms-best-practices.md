@@ -18,7 +18,7 @@ While we can all get busy, we're always willing to try and help each other out. 
 
 **We'd love to hear other bits of related wisdom from the team, so please share below if you have additional tips we can integrate here!**
 
-### How we use Slack {#how-we-use-slack}
+<h2 id="how-we-use-slack">How we use Slack</h2>
 
 Our central slack workspace is govbloomdigital.slack.com which you can [access by signing up for Slack](https://join.slack.com/t/govbloomdigital/signup) 🔒. For an introduction to using Slack, [check out Slack's guide to getting started](https://slack.com/help/articles/218080037-Getting-started-for-new-members).
 

@@ -9,7 +9,7 @@ Bloom is a bring-your-own-device workplace. You're responsible for getting the e
 
 We work hard to make sure the collaboration tools we use are compatible with all devices so that you can keep working with whatever system suits you best. 
 
-Remember, [we provide a tech stipend for all salaried Bloom folks]({{ '/9-benefits-for-ftes/#tech-stipend' | url }}), so get what you need!
+Remember, [we provide a tech stipend for all salaried Bloom folks](/9-benefits-for-ftes/#tech-stipend), so get what you need!
 
 ### Google Workspace
 
@@ -21,7 +21,7 @@ We also use Google Calendar (for..calendaring…), Google Meet (this is mostly f
 
 ### Slack
 
-[We’ve mentioned Slack before]({{ '/10-norms-best-practices/#how-we-use-slack' | url }}), but we are nothing if not thorough and will list it here, too.
+[We’ve mentioned Slack before](/10-norms-best-practices/#how-we-use-slack), but we are nothing if not thorough and will list it here, too.
 
 ### Zoom
 

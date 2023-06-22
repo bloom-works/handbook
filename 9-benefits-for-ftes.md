@@ -44,7 +44,7 @@ Vision, Dental and Long Term and Short Term disability are provided by [Guardian
 
 If you have any additional questions regarding benefits, please contact [People Ops](mailto:blossom@bloomworks.digital).
 
-### Tech Stipend {#tech-stipend}
+<h3 id="tech-stipend">Tech Stipend</h3>
 
 As part of Bloom’s commitment to work/life balance and our movement toward greater workplace equity, it is aligned with our values to provide "Technology Stipends" to our employees to reimburse them for necessary expenditures including reasonable costs that are common for all employees at Bloom. You will be able to expense $1,000 in your first year for items that will make your home work environment effective, efficient, and a place you enjoy logging in. We are pretty flexible about what can be expensed, but this does not include things like monthly internet (your employees probably already have that), coffee to drink at home, or other aesthetic touches (sadly, bounce houses are not justifiable expenses. I TRIED!)
 
