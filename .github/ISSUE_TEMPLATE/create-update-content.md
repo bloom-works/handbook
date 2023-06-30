@@ -8,10 +8,13 @@ assignees: ''
 ---
 
 ## Where to find the content
-[DIRECT LINK TO THE SECTION IN A DOC]
+_direct link to section in a doc_
+
+## Where the content will go
+_ex: Company policies for FTEs > Norms and Best Practices_
 
 ## Person responsible for this content
-[WHO DRAFTED THE CONTENT OR IS PROPOSING IT]
+_who drafted the content or is proposing it_
 
 ## Approver
-[WHO WILL/DID APPROVE IT]
+_who will approve it or already did // we'll also track this via this github workflow_
