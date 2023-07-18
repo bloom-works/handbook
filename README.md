@@ -16,3 +16,7 @@ Definitions of priorities (we are using labels for these):
 
 ## How to contribute new and updated content
 TO DO
+
+How to contribute updates and new content... 
+
+How we'll review new and updated content... 
