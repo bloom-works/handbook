@@ -13,3 +13,6 @@ Definitions of priorities (we are using labels for these):
 - **priority-1** = High priority to create/update. Required for legal/regulatory compliance, AND necessary for new staff onboarding, AND addresses critical needs/questions from Bloomers
 - **priority-2** = Med priority to create/update. Required for legal/regulatory compliance, OR necessary for new staff onboarding, OR addresses critical needs/questions from Bloomers
 - **priority-3** =  Low priority to create/update. Not required for compliance, not necessary for new staff onboarding, but addresses non-urgent needs/questions from Bloomers
+
+## How to contribute new and updated content
+TO DO
