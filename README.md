@@ -1,8 +1,6 @@
 # Handbook
 The Bloom Works employee handbook, with our policies and norms.
 
-# Bloom Works Guides Starter Template
-
 ## Run Instructions
 
 This requires Docker to be installed and running
