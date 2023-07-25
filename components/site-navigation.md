@@ -1,12 +1,11 @@
----
+<!-- ---
 layout: layouts/base.njk
 permalink: "/components/site-navigation/"
-guide: Discovery Playbook
-tags: playbook
+tags: handbook
+guide: Bloom Works Handbook
 subhead: Section 1
 title: Introduction
 templateEngineOverride: md,njk
-date: 2023-02-01
----
+--- -->
 
-Page content goes here.
+<!-- Page content goes here. -->
