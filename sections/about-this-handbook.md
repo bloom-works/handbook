@@ -12,6 +12,8 @@ This handbook is the source of truth for all things Bloom Works and is a resourc
 
 We also want you to know that our policies reflect our values. We want them to be thorough and thoughtful.
 
+# Welp, here's an update. 
+
 Take some time to read this guide and let us know if you have any questions. 
 
 ## Updates, questions, and how to contribute
