@@ -11,7 +11,7 @@ assignees: ''
 _Write your question here_
 
 # Section
-_(optional) If this references existing content, provide a link/URL to the section _
+_(optional) If this references existing content, provide a link/URL to the section_
 
 # Notes
-_Helpful notes, concerns, or topics that would be helpful in providing the best answer possible_
+_(optional) Helpful notes, concerns, or topics that would be helpful in providing the best answer possible_
