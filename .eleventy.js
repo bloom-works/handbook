@@ -78,6 +78,20 @@ module.exports = function (eleventyConfig) {
     return [...tagSet];
   });
 
+  eleventyConfig.addCollection('combinedCollection', collection => {
+    const tableOfContentsData = require('./_data/table_of_contents.json');
+
+    const combinedData = tableOfContentsData.map((fileSlug, index) => {
+      const matchingPage = collection.getAll().find(item => item.page.fileSlug === fileSlug);
+      return {
+        page: matchingPage,
+        order: index + 1 // Adding 1 to the index to start from 1 instead of 0
+      };
+    });
+
+    return combinedData;
+  });
+
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy('img');
   eleventyConfig.addPassthroughCopy('css');
