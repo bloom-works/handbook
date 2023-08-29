@@ -61,13 +61,6 @@ module.exports = function (eleventyConfig) {
     return (tags || []).filter(tag => ['all', 'nav'].indexOf(tag) === -1);
   })
 
-  // Create a collection for sections in alphabetical title order
-  eleventyConfig.addCollection('sections', function (collection) {
-    return collection.getFilteredByTag('section').sort((a, b) => {
-      return a.data.title.localeCompare(b.data.title);
-    });
-  });
-
   // Create an array of all tags
   eleventyConfig.addCollection('tagList', function (collection) {
     const tagSet = new Set();
@@ -84,7 +77,8 @@ module.exports = function (eleventyConfig) {
     const combinedData = tableOfContentsData.map((fileSlug, index) => {
       const matchingPage = collection.getAll().find(item => item.page.fileSlug === fileSlug);
       return {
-        page: matchingPage,
+        data: matchingPage.data,
+        page: matchingPage.page,
         order: index + 1 // Adding 1 to the index to start from 1 instead of 0
       };
     });
