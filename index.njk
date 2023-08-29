@@ -33,28 +33,3 @@ title: Home
     <li>Item Two</li>
     <li>Item Three</li>
   </ol>
-
-
-<h1>collections</h1>
-<ol>
-  {% for section in collections.sections %}
-    <li>
-      Page: {{ section.page | dump }} <br/> 
-      Title: {{section.data.title}} <br/> 
-      URL: {{section.page.url}}
-    </li>
-  {% endfor %}
-</ol>
-
-
-<h1>TOC</h1>
-{{ table_of_contents | dump }}
-
-<h1>Combined Data</h1>
-<ol>
-  {% for section in collections.combinedCollection %}
-    <li>
-      {{ section.page.fileSlug }} -- {{section.page.url}} -- {{ section.page.data.title }}
-    </li>
-  {% endfor %}
-</ol>
