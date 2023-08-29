@@ -71,7 +71,7 @@ module.exports = function (eleventyConfig) {
     return [...tagSet];
   });
 
-  eleventyConfig.addCollection('combinedCollection', collection => {
+  eleventyConfig.addCollection('sections', collection => {
     const tableOfContentsData = require('./_data/table_of_contents.json');
 
     const combinedData = tableOfContentsData.map((fileSlug, index) => {
