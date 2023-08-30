@@ -71,6 +71,8 @@ module.exports = function (eleventyConfig) {
     return [...tagSet];
   });
 
+  // Combines metadata on pages that use the section layout with the ordering in the table of contents file
+  // Is used to generate nav items and get metadata on page ordering
   eleventyConfig.addCollection('sections', collection => {
     const tableOfContentsData = require('./_data/table_of_contents.json');
 
