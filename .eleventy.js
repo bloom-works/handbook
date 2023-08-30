@@ -79,7 +79,7 @@ module.exports = function (eleventyConfig) {
       return {
         data: matchingPage.data,
         page: matchingPage.page,
-        order: index + 1 // Adding 1 to the index to start from 1 instead of 0
+        order: index
       };
     });
 
