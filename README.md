@@ -5,8 +5,8 @@ The Bloom Works employee handbook, with our policies and norms.
 
 This requires Docker to be installed and running
 
-1. Build the container: `docker build -t bloom-works/guides-template .`
-1. Start the server: `docker run -it --rm -p "8080:8080" bloom-works/guides-template`
+1. Build the container: `docker build -t bloom-works/handbook .`
+1. Start the server: `docker run -it --rm -p "8080:8080" bloom-works/handbook`
 1. View the site in your browser at [http://localhost:8080](http://localhost:8080)
 
 ## Developer Setup
@@ -16,8 +16,8 @@ This requires Docker to be installed and running
 This sets up the site with a consistent runtime environment, and requires Docker to be installed and running.
 
 1. Navigate to the base of this repo
-1. Build the container: `docker build -t bloom-works/guides-template .`
-1. Start a terminal inside the container: `docker run -it --rm -p "8080:8080" -v "$PWD:/app" bloom-works/guides-template bash`
+1. Build the container: `docker build -t bloom-works/handbook .`
+1. Start a terminal inside the container: `docker run -it --rm -p "8080:8080" -v "$PWD:/app" bloom-works/handbook bash`
 1. Install dependencies (first time only or when `package.json` changes): `npm install`
 1. Start server: `npm run serve`
 1. View the site in your browser at [http://localhost:8080](http://localhost:8080)
@@ -46,6 +46,7 @@ To add a new section to the site:
     - `layout: layouts/section`
     - `title: My New Section's Title`
 1. Add content below the second `---`
+1. Add the base of the file name into the `_data/table_of_contents.json` file in the desired order. For example, if you section is called `super-important.md`, then you would add the `"super-important"` (no `.md`) into the `_data/table_of_contents.json`.
 
 Feel free to look at any of the existing sections as a starting point.
 
