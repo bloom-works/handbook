@@ -71,7 +71,7 @@ At this time, we are unable to support work permit sponsorship.
 
 We maintain a secure electronic employment file while you are an employee. This file contains things like **🇺🇸**I-9s, **🇺🇸**a copy of I-9 identification, **🇺🇸**W-4s, Employment Agreements, and possibly other appropriate documents, on an individual basis. We use **🇺🇸**Gusto for U.S. employees and 🇨🇦Remote.com for Canadian employees.
 
-Any personnel changes (such as **INTERNAL LINK TK** [address](#heading=h.7q4z7sum67d), dependent changes, etc) can be made directly in Gusto or Remote.
+Any personnel changes (such as [address](/travel-and-relocation/#moving-(u.s.-and-beyond)), dependent changes) can be made directly in Gusto or Remote.
 
 
 ## Employee references
