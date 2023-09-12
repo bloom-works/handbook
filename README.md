@@ -50,6 +50,10 @@ To add a new section to the site:
 
 Feel free to look at any of the existing sections as a starting point.
 
+### Adding an image
+
+If you need to embed an image in a Handbook page, put the image file in the `/img` folder. The resulting URL pattern will be: `/img/FILENAME.suffix`.
+
 ## Checking code before PR
 ### Running Linters
 1. Navigate to the base of this repo
