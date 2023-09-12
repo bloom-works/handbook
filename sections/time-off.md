@@ -73,7 +73,7 @@ If you need to accommodate an appointment or event during business hours, you ma
 
 * **Discuss the dates with your manager and engagement manager, and get approval.** If you’re taking less than three full days, give your manager at least 2 weeks advance notice of planned time off whenever possible.
     * If you’re planning to take more than 3 full days off, we need to know at least 3 weeks in advance, and make a copy of the [OOO coverage plan](https://docs.google.com/document/d/1LOG2Z4pX_2dAF1d0z69WRzaSyaVMfOVJaseJQBpX3kY/edit#heading=h.ied2m8gacuxz) and complete the checklist. This helps us manage projects smoothly and make sure we’re supporting teams consistently. 
-    * If you’re traveling and plan on working from another location on the days before or after your leave, see [personal travel and temporary relocations](/travel-and-relocation/#personal-travel-and-temporary-relocations).
+    * If you’re traveling and plan on working from another location on the days before or after your leave, see [personal travel and temporary relocations](/sections/travel-and-relocation/#personal-travel-and-temporary-relocations).
     * **Request the time off in 🇺🇸 Gusto or 🇨🇦 Remote.** When you enter the leave request, note if it’s been approved by your manager. (Sometimes your manager will approve leave directly, but in some cases People Ops helps approve leave, and this lets them know you’ve already had that conversation.)
 * **Mark your out of office time on your calendar and mark full days off in the shared Bloom calendar** (create a full-day or multi-day event titled [NAME - OOO]). Do not mark partial days off or personal appointments on the Bloom Calendar.
 * **Decline, cancel, or reschedule any meetings you’ll miss.**
