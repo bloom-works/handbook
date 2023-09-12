@@ -30,7 +30,7 @@ We aim to give feedback frequently, so we can all learn and grow continuously. Y
 
 About 4 months after you start at Bloom, your manager will schedule an initial calibration conversation. They’ll reach out to a few folks you work with for feedback, and ask you to reflect on your work, what’s giving you energy, and whether it matches your expectations. The goal of this meeting is to start a dialogue about respective expectations and alignment and identify any course correction needed.
 
-The 4-month calibration meeting also marks the start of ongoing conversations about **INTERNAL LINK TK** [professional development](#heading=h.1g2wtc3ivsz6).
+The 4-month calibration meeting also marks the start of ongoing conversations about [using your professional development benefit](/pay-and-benefits/#professional-development).
 
 ### Annual 360 feedback
 
@@ -43,5 +43,5 @@ In general, annual feedback is also when we take the opportunity to discuss prom
 
 If your **performance** isn’t meeting our expectations for your role (as documented in your job description and relevant competencies), we will tell you as quickly and clearly as we can. If your performance or skill level is putting your job at risk, your manager will clearly document the competency levels needed to stay in your role, as well as a timeline for improving performance. We do our best to raise performance issues before they become serious enough to put your job at risk — whenever possible, we want to see folks grow and succeed in their roles.
 
-We treat violations of our **Code of Conduct or values** differently from performance issues. See our **INTERNAL LINK TK** [Code of Conduct](#code-of-conduct-8) for more about that process.
+We treat violations of our **Code of Conduct or values** differently from performance issues. See our [Code of Conduct](/code-of-conduct/) for more about that process.
 
