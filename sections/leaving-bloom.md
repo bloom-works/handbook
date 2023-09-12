@@ -14,7 +14,7 @@ We may ask you for an exit interview to learn more about your experience and why
 
 ## Termination
 
-If there is a problem with an employee's performance or conduct, or there is otherwise clearly a bad fit between the employee and Bloom, we'll make every **INTERNAL LINK TK** [effort to remedy the issue](#heading=h.e8szuqjf7vhv). If termination turns out to be the only solution, the employee will be fully aware of, and probably in agreement with, the reasons.
+If there is a problem with an employee's performance or conduct, or there is otherwise clearly a bad fit between the employee and Bloom, we'll make every [effort to remedy the issue](/career-growth/#if-there-are-issues-with-your-performance). If termination turns out to be the only solution, the employee will be fully aware of, and probably in agreement with, the reasons.
 
 ## Returning property
 
