@@ -17,7 +17,7 @@ We also use Google Calendar, Google Meet (as an alternative to Zoom), and Google
 
 We currently have two shared Google calendars that are available for all Bloomers:
 
-* [Bloom Calendar](mailto:govbloom.com_ano61avillvl2767i0vfjh9ccg@group.calendar.google.com) 🔒 is where we document Out of Office time, operations deadlines of importance, and general info that needs to be shared with the whole team.
+* [Bloom Calendar](https://calendar.google.com/calendar/u/0?cid=Z292Ymxvb20uY29tX2FubzYxYXZpbGx2bDI3NjdpMHZmamg5Y2NnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) 🔒 is where we document Out of Office time, operations deadlines of importance, and general info that needs to be shared with the whole team.
 * [Bloom Business Development Calendar](https://calendar.google.com/calendar/u/0?cid=Y19rYWtmOWM0aXVqa3UxcWZwdTdzdTJtaWNhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 🔒 is where we track proposal timelines, BD-related events, etc.
 
 **Slack**
