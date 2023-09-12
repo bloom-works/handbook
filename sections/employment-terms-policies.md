@@ -44,7 +44,7 @@ If the total time commitment is unclear, you can also be paid on an hourly basis
 
 As a temporary employee, you operate much like a salaried employee. Outside of your project work, we want you to invest non-billable time to engage with and help grow Bloom and your practice area (for example, attend quarterly all-hands meetings). We’ll also provide more direct management than we do for contractors.
 
-Note that Bloom employees do not qualify for overtime compensation. See our [time tracking](/time-tracking/) section for more information.
+Note that Bloom employees do not qualify for overtime compensation. See our [time tracking](/sections/time-tracking/) section for more information.
 
 
 ## Background checks
@@ -71,7 +71,7 @@ At this time, we are unable to support work permit sponsorship.
 
 We maintain a secure electronic employment file while you are an employee. This file contains things like **🇺🇸**I-9s, **🇺🇸**a copy of I-9 identification, **🇺🇸**W-4s, Employment Agreements, and possibly other appropriate documents, on an individual basis. We use **🇺🇸**Gusto for U.S. employees and 🇨🇦Remote.com for Canadian employees.
 
-Any personnel changes (such as [address](/travel-and-relocation/#moving-(u.s.-and-beyond)), dependent changes) can be made directly in Gusto or Remote.
+Any personnel changes (such as [address](/sections/travel-and-relocation/#moving-(u.s.-and-beyond)), dependent changes) can be made directly in Gusto or Remote.
 
 
 ## Employee references
