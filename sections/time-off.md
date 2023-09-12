@@ -9,7 +9,7 @@ Work/life balance is an important part of Bloom’s culture. We all need a break
 ## Types of leave for salaried employees
 
 Regardless of the type of leave, you need to 
-**INTERNAL LINK TK** [communicate your plans for all time off](#heading=h.8x0n6m6tb2e7). Personal time, floating holidays, and respite leave must be approved by your manager.
+[communicate your plans for all time off](#communicating-time-off). Personal time, floating holidays, and respite leave must be approved by your manager.
 
 * Full-time employees (40 hours per week) accrue up to 120 hours of personal time each calendar year. You accrue 5 hours per pay period.
 * Full-time employees also get 64 hours (8 days) of Floating Holiday time. Use it on any day, not just on federal or state holidays. If you want to celebrate National Ice Cream Day, you do you. We opted for this instead of a regular holiday calendar because we have a diverse group of people, and we want you to choose the days that mean the most to you.
@@ -73,7 +73,7 @@ If you need to accommodate an appointment or event during business hours, you ma
 
 * **Discuss the dates with your manager and engagement manager, and get approval.** If you’re taking less than three full days, give your manager at least 2 weeks advance notice of planned time off whenever possible.
     * If you’re planning to take more than 3 full days off, we need to know at least 3 weeks in advance, and make a copy of the [OOO coverage plan](https://docs.google.com/document/d/1LOG2Z4pX_2dAF1d0z69WRzaSyaVMfOVJaseJQBpX3kY/edit#heading=h.ied2m8gacuxz) and complete the checklist. This helps us manage projects smoothly and make sure we’re supporting teams consistently. 
-    * If you’re traveling and plan on working from another location on the days before or after your leave, see **INTERNAL LINK TK** [personal travel and temporary relocations](#heading=h.ya755iu2ir03).
+    * If you’re traveling and plan on working from another location on the days before or after your leave, see [personal travel and temporary relocations](/travel-and-relocation/#personal-travel-and-temporary-relocations).
     * **Request the time off in 🇺🇸 Gusto or 🇨🇦 Remote.** When you enter the leave request, note if it’s been approved by your manager. (Sometimes your manager will approve leave directly, but in some cases People Ops helps approve leave, and this lets them know you’ve already had that conversation.)
 * **Mark your out of office time on your calendar and mark full days off in the shared Bloom calendar** (create a full-day or multi-day event titled [NAME - OOO]). Do not mark partial days off or personal appointments on the Bloom Calendar.
 * **Decline, cancel, or reschedule any meetings you’ll miss.**
