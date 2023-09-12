@@ -27,7 +27,7 @@ This is especially important if you'll be creating any business development or c
 We often submit team members' resumes in our proposals, so we have a Bloom template for consistency.
 
 1. [Check out the resume template on Google Drive](https://docs.google.com/document/d/1xkY1BekVOIgimT_idKyhStqg5fJ56GHRmZiMW0dZV0g/edit) 🔒
-2. Create a copy and move it to [Bloom Full Team Drive > Team > Bios, photos, resumes folder](https://drive.google.com/drive/u/0/folders/1wqWI38uNF0l8XbqhPGGLFDN-m26A4s60). 🔒
+1. Create a copy and move it to [Bloom Full Team Drive > Team > Bios, photos, resumes folder](https://drive.google.com/drive/u/0/folders/1wqWI38uNF0l8XbqhPGGLFDN-m26A4s60). 🔒
 
 
 # 5/ Get added to the Bloom website

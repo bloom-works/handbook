@@ -28,8 +28,8 @@ Itemized receipts are required for all expenditures over USD $50 (or equivalent 
 Bloom complies with IRS regulations for [accountable plans](https://www.investopedia.com/terms/a/accountableplan.asp#:~:text=According%20to%20IRS%20rules%2C%20under,company%20within%20a%20specified%20timeframe.)  (this is the legal tax thing that lets the IRS differentiate reimbursement from income so you don’t get taxed on reimbursements) which require that all business expenses be substantiated with adequate records. Documentation must include:
 
 1. The amount of the expenditure.
-2. The date and place of the expenditure.
-3. The business purpose of the expenditure.
-4. The names of individuals other than yourself for whom the expenditures were made.
+1. The date and place of the expenditure.
+1. The business purpose of the expenditure.
+1. The names of individuals other than yourself for whom the expenditures were made.
 
 If there’s no receipt, or if the receipt is lost and cannot be reproduced, you may submit a copy of the credit card statement with the appropriate charge highlighted. This does not guarantee your expense will be reimbursed.

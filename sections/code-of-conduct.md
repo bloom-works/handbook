@@ -71,8 +71,8 @@ If you believe that you have experienced or witnessed retaliation, you should im
 Managers [must report any suspected harassment or retaliation to People Ops](mailto:safespace@bloomworks.digital). Reports of suspected harassment will be acknowledged and assigned a point person within 3 business days. When Bloom receives a report of suspected harassment, here’s what we do:
 
 1. Designate a person in Bloom leadership (director-level or above) as a point person. This must be someone not named in the allegation. Ideally, this person will not be in the affected parties’ reporting structures.
-2. Investigate by gathering statements from those involved and witnesses (written or in person). All employees are expected to cooperate fully in any investigation.
-3. Determine consequences and next steps.
+1. Investigate by gathering statements from those involved and witnesses (written or in person). All employees are expected to cooperate fully in any investigation.
+1. Determine consequences and next steps.
 
 Whenever possible and appropriate, employees who file internal complaints will be notified about the status of their complaint, the results of the investigation, and any corrective or preventive action taken.
 
