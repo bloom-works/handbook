@@ -50,7 +50,7 @@ If you want to create a new channel, reach out to [People Ops](mailto:blossom@bl
 * **🇺🇸 Gusto (U.S. salaried employees only)** is the system we use to onboard U.S.-based Bloomers and process payroll. It’s also where you’ll request paid time off and sick leave.
 * **Harvest** is the platform we use for [time tracking](/sections/time-tracking/). This is also where you’ll log [expenses (like travel and reimbursements)](/sections/expenses-and-reimbursement/).
 * **🇨🇦 Remote.com (Canadian employees only)**  is the Gusto of the North. 
-    * **_Why do we use two different tools for the same function?_** At this time, Gusto doesn’t support employees living internationally. At this time, neither platform supports those living in U.S. territories (Puerto Rico or the U.S. Virgin Islands).
+    * **_Why do we use two different tools for the same function?_** At this time, Gusto doesn’t support employees living internationally and neither platform supports those living in U.S. territories.
 * **Zoom** is what we use for partner calls, unless clients prefer Microsoft Teams or Google Meet. Most Bloomers have free account access by default, which limits meetings to 40 minutes. If you think your meeting will run longer, you can either use Google Meet or reach out to your engagement manager to ask if a paid Zoom license is available.
 
 ## Project tools
