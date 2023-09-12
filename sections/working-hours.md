@@ -24,12 +24,12 @@ If you get messages or emails outside of your working hours, we don’t expect y
 
 Your schedule should be clear from looking at your calendar, so coworkers can schedule meetings and respect your time without too much sleuthing. The easiest way to do this is to set working hours in Google Calendar. 
 
-If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see [personal travel and temporary relocations](/travel-and-relocation/#personal-travel-and-temporary-relocations).)
+If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see [personal travel and temporary relocations](/sections/travel-and-relocation/#personal-travel-and-temporary-relocations).)
 
 **IMAGE TK**
 ![alt_text](images/image3.png "image_tooltip")
 
 You can also set a notification schedule in Slack, which lets coworkers know if they’re messaging you outside your working hours.
 
-If you’ll be out of the office, see [communicating time off](/time-off/#communicating-time-off).
+If you’ll be out of the office, see [communicating time off](/sections/time-off/#communicating-time-off).
 
