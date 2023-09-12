@@ -9,6 +9,6 @@ Some projects issue government furnished equipment (GFE), but you’ll still nee
 
 We use collaboration tools that are compatible with all devices so you can keep working with whatever system suits you best. 
 
-Remember,  we provide a **INTERNAL LINK TK** [remote work stipend for all salaried Bloom folks](#heading=h.po2w7dxbjir), so get what you need! 
+Remember,  we provide a [remote work stipend for all salaried Bloom folks](/pay-and-benefits/#remote-work-stipend), so get what you need! 
 
 If you want or have equipment recommendations, [Bloomers are populating this doc](https://docs.google.com/document/d/1Pf4L1FK83dumIw3u9i-YEhmYBuAoM-TOFsDcYMuUl6E/edit) to help you out.
