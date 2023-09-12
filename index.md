@@ -23,10 +23,10 @@ We invite contributions, whether you have a question ( “How do I do ABC?”), 
 
 * **Ask a question**: Hop into #bloom-handbook, or talk with your manager about questions that are more individual or sensitive.
 * **Suggest an update**: Submit an issue to the GitHub repo using the [‘Comment or suggestion’ issue template](https://github.com/bloom-works/handbook/issues/new?assignees=&labels=&projects=&template=comment-or-suggestion.md&title=). If you don’t have a GitHub account yet, drop your comment in #bloom-handbook, and be sure to include context that will help us prioritize and take action:
-* What do you want to be able to do or understand?
-* If there's something missing or confusing about the handbook, how is this impacting you (or might impact you in the future)?
-* Use a user story format to put this suggestion in context, ex: As a [USER OR ROLE], I want [SOMETHING, OR TO DO SOMETHING], because/so that [WHY].
-* Other notes, context, concerns, or topics that would be helpful for the handbook team to take action on this.
+    * What do you want to be able to do or understand?
+    * If there's something missing or confusing about the handbook, how is this impacting you (or might impact you in the future)?
+    * Use a user story format to put this suggestion in context, ex: As a [USER OR ROLE], I want [SOMETHING, OR TO DO SOMETHING], because/so that [WHY].
+    * Other notes, context, concerns, or topics that would be helpful for the handbook team to take action on this.
 * **Contribute updates**: [Open a pull request](https://github.com/bloom-works/handbook/pulls).
 
 For more about how we process and potentially implement changes, see CONTRIBUTING.md.
