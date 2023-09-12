@@ -24,25 +24,12 @@ If you get messages or emails outside of your working hours, we don’t expect y
 
 Your schedule should be clear from looking at your calendar, so coworkers can schedule meetings and respect your time without too much sleuthing. The easiest way to do this is to set working hours in Google Calendar. 
 
-If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see 
+If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see **INTERNAL LINK TK** [personal travel and temporary relocations](#heading=h.ya755iu2ir03).)
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "personal travel and temporary relocations"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[personal travel and temporary relocations](#heading=h.ya755iu2ir03).)
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
+**IMAGE TK**
 ![alt_text](images/image3.png "image_tooltip")
-
 
 You can also set a notification schedule in Slack, which lets coworkers know if they’re messaging you outside your working hours.
 
-If you’ll be out of the office, see 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "communicating time off"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[communicating time off](#heading=h.8x0n6m6tb2e7).
-
+If you’ll be out of the office, see **INTERNAL LINK TK** [communicating time off](#heading=h.8x0n6m6tb2e7).
 

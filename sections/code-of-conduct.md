@@ -79,4 +79,3 @@ Whenever possible and appropriate, employees who file internal complaints will b
 Any employee determined to be responsible for unacceptable behavior will be subject to disciplinary action, up to and including termination of employment. We may also take additional steps to prevent further violations of this policy.
 
 Some behaviors named in this Code of Conduct are illegal at the local, state, provincial, or federal level (particularly harassment, sexual harassment, and retaliation). In addition to employment consequences, offenders may also be personally liable, in the event of litigation, for damages, attorney's fees, and other costs of litigation.
-

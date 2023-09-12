@@ -7,7 +7,7 @@ title: Pay and benefits for salaried employees
 
 Bloom is on a semi-monthly payroll cycle, meaning you get paid twice per month (on the 15th and final day of each month). If payroll dates fall on a weekend or a holiday then paychecks process on the earlier business day. 
 
-We use **🇺🇸**Gusto to administer payroll and benefits for U.S. employees, and 🇨🇦Remote.com for Canadian employees. Gusto sends all payments via direct deposit (you could ask for a physical check, but it’s not recommended) and you can access your detailed pay stubs online.
+We use 🇺🇸 Gusto to administer payroll and benefits for U.S. employees, and 🇨🇦 Remote.com for Canadian employees. Gusto sends all payments via direct deposit (you could ask for a physical check, but it’s not recommended) and you can access your detailed pay stubs online.
 
 On your work anniversary 🎉, you’ll receive a 2.5% annual cost-of-living increase.
 
@@ -16,7 +16,7 @@ On your work anniversary 🎉, you’ll receive a 2.5% annual cost-of-living inc
 
 Bloom matches 100% of retirement plan contributions up to 6% of your salary.
 
-**🇺🇸** Guideline, our 401k admin, will reach out to you directly to set up your account after you join Bloom. Our plan automatically enrolls you for the maximum matched withholding amount (6%), but you can adjust this amount by logging into Guideline.
+🇺🇸 Guideline, our 401k admin, will reach out to you directly to set up your account after you join Bloom. Our plan automatically enrolls you for the maximum matched withholding amount (6%), but you can adjust this amount by logging into Guideline.
 
 🇨🇦 Remote.com will provide instruction on enroling in an RRSP serviced by CanadaLife. During enrolment, you can adjust your contribution amount, but you should make sure that your contribution falls under the CRA maximum limit or tax penalties might apply.
 
@@ -25,7 +25,7 @@ There’s no vesting period — all of our employees are automatically 100% vest
 
 ## Healthcare
 
-**🇺🇸**For U.S. based employees, Bloom covers 90% of medical plan premiums and up to 50% of premiums for dependents for the base plan. Our medical plan options are all through [UnitedHealthcare](https://www.uhc.com/). For detailed plan descriptions and cost estimates, reach out to People Ops.
+🇺🇸 For U.S. based employees, Bloom covers 90% of medical plan premiums and up to 50% of premiums for dependents for the base plan. Our medical plan options are all through [UnitedHealthcare](https://www.uhc.com/). For detailed plan descriptions and cost estimates, reach out to People Ops.
 
 Our health plans take on new members at the start of each calendar month following your start date. For example, if you join Bloom on June 15, your first date of coverage would be July 1.
 
@@ -36,7 +36,7 @@ _Note: Each year we select a plan (usually Gold tier) and calculate the employer
 
 Bloom pays 99% of dental and vision premiums for employees, and 50% for dependents.
 
-🇺🇸Vision, Dental, and Long-and Short-Term disability are provided by [Guardian](https://www.guardiandirect.com/). Bloom also provides $50,000 of life insurance for all employees at no cost to employees.
+🇺🇸 Vision, Dental, and Long-and Short-Term disability are provided by [Guardian](https://www.guardiandirect.com/). Bloom also provides $50,000 of life insurance for all employees at no cost to employees.
 
 🇨🇦 Remote.com provides vision, dental, disability, and life insurance  through CanadaLife. See the [summary of benefits](https://remote.com/benefits-guide/employee-benefits-canada-health-standard-family) for more info.
 
@@ -50,7 +50,7 @@ If you have any additional questions regarding benefits, contact [People Ops](ma
 
 ## 🇨🇦Canadian benefits
 
-[Click this link](https://remote.com/benefits-guide/employee-benefits-canada-health-standard-family) to learn aboot current benefits for 🇨🇦Canadian employees.
+[Click this link](https://remote.com/benefits-guide/employee-benefits-canada-health-standard-family) to learn aboot current benefits for 🇨🇦 Canadian employees.
 
 
 ## Remote work stipend
@@ -61,7 +61,7 @@ Many people use this to [buy a new computer](#computer-and-equipment-12), get a 
 
 This does not include ongoing expenses like monthly internet, coworking spaces, coffee to drink at home, or aesthetic touches. This stipend renews after you’ve been at Bloom for 3 years. Reach out to People Ops if you're not sure what your balance is.
 
-**🇺🇸**Since the tech stipend is a reimbursement of expenses, it’s not subject to income tax in the United States.
+🇺🇸 Since the tech stipend is a reimbursement of expenses, it’s not subject to income tax in the United States.
 
 After you purchase something, follow [expenses and reimbursement procedures](#expenses-and-reimbursement-procedures-28) to get reimbursed. 
 
@@ -80,8 +80,6 @@ If you need guidance on how much time is appropriate to spend on professional de
 ### Using your professional development budget
 
 You’ll have access to your professional development budget after your 4 month calibration meeting with your manager. This budget can be used for a number of things:
-
-
 
 * Online or in-person courses
 * Testing fees & renewal costs associated with professional certifications

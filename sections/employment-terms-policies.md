@@ -32,7 +32,7 @@ Employees who become disabled should notify People Ops if the conditions of the 
 
 ## Employment classifications
 
-**Salaried employees: **This is when we bring someone on as a salaried member of the team to work on projects (internal and external). As a salaried employee, we have a duty to help you grow in your career, and you have a duty to help shape Bloom as an organization and within your practice area. 
+**Salaried employees:** This is when we bring someone on as a salaried member of the team to work on projects (internal and external). As a salaried employee, we have a duty to help you grow in your career, and you have a duty to help shape Bloom as an organization and within your practice area. 
 
 We expect full-time employees to bill 36 hours per week, leaving 10% time for internal Bloom time (like coffee chats outside project work, internal meetings, or professional development).
 
@@ -44,7 +44,7 @@ If the total time commitment is unclear, you can also be paid on an hourly basis
 
 As a temporary employee, you operate much like a salaried employee. Outside of your project work, we want you to invest non-billable time to engage with and help grow Bloom and your practice area (for example, attend quarterly all-hands meetings). We’ll also provide more direct management than we do for contractors.
 
-Note that Bloom employees do not qualify for overtime compensation. See our [📄Time tracking](#time-tracking-23) section for more information.
+Note that Bloom employees do not qualify for overtime compensation. See our **INTERNAL LINK TK** [time tracking](#time-tracking-23) section for more information.
 
 
 ## Background checks
@@ -56,7 +56,7 @@ Some work will require a [public trust determination](https://www.usajobs.gov/he
 
 ## Immigration law compliance
 
-🇺🇸Employees hired to work in the U.S. need to complete a Form I-9 and produce proof of identity and eligibility to work. We need these documents as soon as your Employment Agreement is signed, and we’ll keep them in your confidential electronic personnel file.
+🇺🇸 Employees hired to work in the U.S. need to complete a Form I-9 and produce proof of identity and eligibility to work. We need these documents as soon as your Employment Agreement is signed, and we’ll keep them in your confidential electronic personnel file.
 
 At this time, we are unable to support visa sponsorship.
 
@@ -71,16 +71,12 @@ At this time, we are unable to support work permit sponsorship.
 
 We maintain a secure electronic employment file while you are an employee. This file contains things like **🇺🇸**I-9s, **🇺🇸**a copy of I-9 identification, **🇺🇸**W-4s, Employment Agreements, and possibly other appropriate documents, on an individual basis. We use **🇺🇸**Gusto for U.S. employees and 🇨🇦Remote.com for Canadian employees.
 
-Any personnel changes (such as 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "address"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[address](#heading=h.7q4z7sum67d), dependent changes, etc) can be made directly in Gusto or Remote.
+Any personnel changes (such as **INTERNAL LINK TK** [address](#heading=h.7q4z7sum67d), dependent changes, etc) can be made directly in Gusto or Remote.
 
 
 ## Employee references
 
-🇺🇸We follow state and local regulations that govern employment references. In some cases, Bloom will only confirm employment and provide employment dates and the positions held in response to third parties inquiries.
+🇺🇸 We follow state and local regulations that govern employment references. In some cases, Bloom will only confirm employment and provide employment dates and the positions held in response to third parties inquiries.
 
 🇨🇦 Remote.com can provide [employment verification letters](https://support.remote.com/hc/en-us/articles/4422684040461-How-to-generate-a-standard-employment-verification-letter-on-Remote). If something more is required, please discuss with your manager and/or People Ops.
 
@@ -105,4 +101,3 @@ Organizations are required by law to post compliance posters. No, we are not ask
 * 🇨🇦 [Employment Standards in Ontario](https://files.ontario.ca/mltsd-employment-standards-poster-en-2020-09-08.pdf)
 * 🇨🇦 [Ontario Health & Safety at Work](https://files.ontario.ca/mltsd_2/mltsd-prevention-poster-en-2020-07-22.pdf)
 * 🇨🇦 [Ontario Occupational Health and Safety Act](https://www.ontario.ca/laws/statute/90o01)
-

@@ -3,46 +3,36 @@ layout: layouts/section
 title: Things to set up in your first week
 ---
 
-## 1/ Set defaults and working hours in Google Calendar
+## Set defaults and working hours in Google Calendar
 
 On your personal Bloom calendar, go into the settings by clicking the gear icon in the upper right hand corner. Here are a few settings we recommend updating:
-
 
 * Set your notification settings for events
 * Set a default meeting duration (our norm is 30 minutes, but some folks choose 25)
 * Confirm your working hours
 * Add a secondary time zone to your calendar, so you can see where meetings will land for those across the country (settings > time zone > display secondary time zone)
 
-
-## 2/ Set your email signature
+## Set your email signature
 
 Here’s a [template](https://docs.google.com/document/d/1RaK-lQacImYNa-fyfDrY5iIvU5X7gSm1bq0ilfa1tBI/edit?usp=sharing) 🔒to use. Note that we spell out our website’s URL to reinforce that we are a .digital and not a .com.
 
-
-## 3/ Install the Bloom default styles in Google Docs
+## Install the Bloom default styles in Google Docs
 
 This is especially important if you'll be creating any business development or client-facing Bloom documents. Go to the **[Visual Style Guide](https://docs.google.com/document/d/1k5lB6L2Uaiaomw6QZqqNWdDUad_IDbMEEEceI9Cd0Gg/edit#heading=h.g5pyyoerqoo3) 🔒** in Google Docs, then click on the 'style' drop down and set your default styles. The screenshot below shows you exactly how to turn on this default:
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+**IMAGE TK**
 
 ![alt_text](images/image1.png "image_tooltip")
 
-
-
-## 4/ Create a Bloom resume 
+## Create a Bloom resume 
 
 We often submit team members' resumes in our proposals, so we have a Bloom template for consistency.
-
-
 
 1. [Check out the resume template on Google Drive](https://docs.google.com/document/d/1xkY1BekVOIgimT_idKyhStqg5fJ56GHRmZiMW0dZV0g/edit) 🔒
 2. Create a copy and move it to [Bloom Full Team Drive > Team > Bios, photos, resumes folder](https://drive.google.com/drive/u/0/folders/1wqWI38uNF0l8XbqhPGGLFDN-m26A4s60). 🔒
 
 
-## 5/ Get added to the Bloom website
+## Get added to the Bloom website
 
 Now that you're part of the team, we want to add you to the Bloom website! 
 
@@ -57,19 +47,19 @@ Now that you're part of the team, we want to add you to the Bloom website!
 Slack your photo to @adam and we’ll add it to the website within 2 weeks.
 
 
-## 6/ Set up your profiles with your name, pictures, and pronouns
+## Set up your profiles with your name, pictures, and pronouns
 
 Sharing your pronouns helps people refer to you correctly, and can promote inclusion by normalizing the practice. Include your pronouns in your Slack profile, Zoom profile, email signature, Bloom bio, and in spoken introductions.
 
 Add a picture and your chosen or preferred name/nickname to each tool to help your coworkers recognize you and address you in the way you choose.
 
 
-## 7/ Get to know your coworkers
+## Get to know your coworkers
 
 This [Trello board](https://trello.com/b/WVHYQUIn/bloom-overview) 🔒 is a good place to learn about fellow team members and has links to some basic information. Add your own card so people can learn about you, too!
 
 
-## 8/ Setup GitHub account
+## Setup GitHub account
 
 If you have a GitHub account already, post your GitHub user ID in Slack's #bloom-tech-ops channel  and we'll add you to our GitHub Org.
 

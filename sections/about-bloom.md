@@ -18,7 +18,7 @@ Our aim is to advance access and equity by building digital services that work s
 
 * **Lead with courage:** Welcome ambiguity. Remember that challenging the status quo requires stepping into uncharted territory.
 * **Center the people:** Seek an understanding of people's lived experiences, and challenge systems that perpetuate inequities.
-* **Share the process: **Cultivate mutual trust between peers, partners, and clients. Leave egos behind, and share findings.
+* **Share the process:** Cultivate mutual trust between peers, partners, and clients. Leave egos behind, and share findings.
 * **Adapt to change:** Pursue excellence by being curious, determined, and willing to change plans. Make only new mistakes.
 * **Design for impact:** Come with high expectations but be cognizant of constraints. Create processes that people can actually use and build on over time.
 
@@ -30,4 +30,3 @@ Bloom is a Public Benefit LLC, and a Pennsylvania and Virginia-Certified Small D
 Bloom is a founding member of the [Digital Women-Owned Small Business Alliance](https://www.digitalwosballiance.org/) (Digital WOSB Alliance), a non-profit organization dedicated to supporting the advancement and expansion of women-owned, women-led digital services organizations through community, advocacy and education.
 
 We are also a member of the [Digital Services Coalition](https://digitalservicescoalition.org/#/), a collection of agile technology and design firms that serve—or aspire to serve—the government.
-

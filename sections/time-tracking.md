@@ -5,12 +5,7 @@ title: Time tracking
 
 We’re a consulting company, which means we bill for our time, selling our expertise and methodology to clients.
 
-We use 
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Harvest"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Harvest](#heading=h.8u4mvavobqww) to record what we spend time on. Here’s what that means:
-
+We use **INTERNAL LINK TK** [Harvest](#heading=h.8u4mvavobqww) to record what we spend time on. Here’s what that means:
 
 * We ask you to submit timesheets weekly so we can consistently monitor projects and keep budgets on track. All timesheets for the month must be completed by 12pm ET on the first working day of the next month so we can invoice our clients, even if the end of the month falls in the middle of the week.
 * We track time in 15-minute increments (though often whole hours are plenty, since many people are full-time on one project). No need to subtract 2 minutes every time you take a sip of water!

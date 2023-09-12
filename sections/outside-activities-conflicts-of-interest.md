@@ -21,4 +21,3 @@ Situations that raise this possibility include:
 * “Moonlighting” or freelancing outside of your Bloom employment with organizations that Bloom does business with, competes with, or may do business with or compete with in the future.
 
 If you find yourself with a potential conflict, reach out to your manager to discuss as soon as possible.
-
