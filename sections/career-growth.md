@@ -30,7 +30,7 @@ We aim to give feedback frequently, so we can all learn and grow continuously. Y
 
 About 4 months after you start at Bloom, your manager will schedule an initial calibration conversation. They’ll reach out to a few folks you work with for feedback, and ask you to reflect on your work, what’s giving you energy, and whether it matches your expectations. The goal of this meeting is to start a dialogue about respective expectations and alignment and identify any course correction needed.
 
-The 4-month calibration meeting also marks the start of ongoing conversations about [using your professional development benefit](/pay-and-benefits/#professional-development).
+The 4-month calibration meeting also marks the start of ongoing conversations about [using your professional development benefit](/sections/pay-and-benefits/#professional-development).
 
 ### Annual 360 feedback
 
