@@ -5,44 +5,28 @@ title: Working hours
 
 We love being a remote-first company and getting to work with people from across the U.S. and Canada. The things that make this work for our teams and clients are consistency and communication.
 
-
-## Shared working hours
+# Shared working hours
 
 As a default, we expect Bloomers to work during normal business hours in their time zone. This allows us to have 4.5 hours of overlap from 12-4:30pm ET (9-1:30pm PT), during which we try to schedule most meetings and can count on each other to be working. 
 
 If you want to work a schedule that does not include 12-4:30pm ET from Monday through Friday, you need approval from your manager.
 
-
-## Respecting working hours
+# Respecting working hours
 
 We value time away from work, and try to respect each others’ evenings, weekends, and time off. If you’re messaging someone outside of their working hours, consider scheduling your message to be sent at a later time if it’s not urgent. Here is how you do it in [Slack](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) and [Google](https://support.google.com/messages/answer/10456318?hl=en#zippy=%2Cset-a-reminder-for-a-message%2Cschedule-messages).
 
 If you get messages or emails outside of your working hours, we don’t expect you to respond until you’re back at work. Many Bloomers use focus modes, different profiles, and notification settings to keep from getting work messages after hours.
 
-
-## Communicating your schedule
+# Communicating your schedule
 
 Your schedule should be clear from looking at your calendar, so coworkers can schedule meetings and respect your time without too much sleuthing. The easiest way to do this is to set working hours in Google Calendar. 
 
-If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "personal travel and temporary relocations"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[personal travel and temporary relocations](#heading=h.ya755iu2ir03).)
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see [personal travel and temporary relocations](INTERNAL LINK TK).)
 
 ![alt_text](images/image3.png "image_tooltip")
 
-
 You can also set a notification schedule in Slack, which lets coworkers know if they’re messaging you outside your working hours.
 
-If you’ll be out of the office, see 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "communicating time off"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[communicating time off](#heading=h.8x0n6m6tb2e7).
+If you’ll be out of the office, see [communicating time off](INTERNAL LINK TK).
 
 

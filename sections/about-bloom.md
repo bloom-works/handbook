@@ -12,7 +12,7 @@ In that world, when we tried to hire outside help, we found people who were more
 [Check out this 2019 GovTech piece for more about Bloom](https://www.govtech.com/biz/Bloom-Assembles-Digital-Government-Alumni-for-Consulting.html).
 
 
-## Mission & core values
+# Mission & core values
 
 Our aim is to advance access and equity by building digital services that work seamlessly for the people who rely on them.
 
@@ -23,7 +23,7 @@ Our aim is to advance access and equity by building digital services that work s
 * **Design for impact:** Come with high expectations but be cognizant of constraints. Create processes that people can actually use and build on over time.
 
 
-## Our community & field
+# Our community & field
 
 Bloom is a Public Benefit LLC, and a Pennsylvania and Virginia-Certified Small Diverse Business that's recognized by the U.S. Small Business Association as an Economically Disadvantaged Woman-Owned Small Business (EDWOSB), and is Women's Business Enterprise National Council (WBENC) Certified.
 

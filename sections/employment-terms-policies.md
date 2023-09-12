@@ -3,7 +3,7 @@ layout: layouts/section
 title: Employment terms and policies
 ---
 
-## At-will notice
+# At-will notice
 
 Your employment is At-Will. You are not hired for any definite or specified period of time even though your wages are paid regularly. You are an at-will employee of Bloom and your employment can be terminated at any time, with or without cause and with or without prior notice. 
 
@@ -12,7 +12,7 @@ Company policy requires all employees to be hired at-will and this policy cannot
 Only authorized management may alter or modify any of the policies in this Employee Handbook with the exception of the "At-Will Employment" provision, which cannot be altered by anybody. Nothing in this handbook is intended to infringe upon employee rights under Section Seven (7) of the National Labor Relations Act (NLRA).
 
 
-## Equal employment
+# Equal employment
 
 Bloom provides equal employment opportunities and administers all aspects and conditions of employment without regard to age, race, color, national origin, gender (including pregnancy, childbirth or medical condition related to pregnancy or childbirth), gender identity or expression, sexual orientation, religion, physical or mental disability, medical condition, genetic information, marital status, veteran status, military status, or any other characteristic protected by federal, state, or local law. 
 
@@ -21,7 +21,7 @@ We take allegations of discrimination, intimidation, harassment and retaliation 
 Equal employment opportunity includes, but is not limited to, employment, training, promotion, demotion, transfer, leaves of absence, and termination.
 
 
-## Reasonable accommodations
+# Reasonable accommodations
 
 It is Bloom’s policy to comply with all relevant and applicable provisions of the [Americans with Disabilities Act (ADA)](https://www.ada.gov/), the [Accessible Canada Act](https://laws-lois.justice.gc.ca/eng/acts/a-0.6/page-1.html), and any regional laws concerning the employment of persons with disabilities. 
 
@@ -30,7 +30,7 @@ Bloom will not discriminate against any qualified employee or job applicant beca
 Employees who become disabled should notify People Ops if the conditions of the disability impair their ability to perform the essential functions of their position. Where necessary and feasible, reasonable accommodations will be made for qualified disabled employees to perform the essential functions of the job in question, as long as the accommodation does not cause Bloom undue hardship.
 
 
-## Employment classifications
+# Employment classifications
 
 **Salaried employees: **This is when we bring someone on as a salaried member of the team to work on projects (internal and external). As a salaried employee, we have a duty to help you grow in your career, and you have a duty to help shape Bloom as an organization and within your practice area. 
 
@@ -47,14 +47,14 @@ As a temporary employee, you operate much like a salaried employee. Outside of y
 Note that Bloom employees do not qualify for overtime compensation. See our [📄Time tracking](#time-tracking-23) section for more information.
 
 
-## Background checks
+# Background checks
 
 Many of our clients require a background check, and we may hire third-party services to perform them.
 
 Some work will require a [public trust determination](https://www.usajobs.gov/help/faq/job-announcement/security-clearances/) (sometimes called a clearance, but it’s more lightweight than that). We’ll tell you if you need one before you start your project.
 
 
-## Immigration law compliance
+# Immigration law compliance
 
 🇺🇸Employees hired to work in the U.S. need to complete a Form I-9 and produce proof of identity and eligibility to work. We need these documents as soon as your Employment Agreement is signed, and we’ll keep them in your confidential electronic personnel file.
 
@@ -67,32 +67,28 @@ We use E-Verify,  a system that confirms your employment eligibility by comparin
 At this time, we are unable to support work permit sponsorship.
 
 
-## Personnel (and personal) records
+# Personnel (and personal) records
 
 We maintain a secure electronic employment file while you are an employee. This file contains things like **🇺🇸**I-9s, **🇺🇸**a copy of I-9 identification, **🇺🇸**W-4s, Employment Agreements, and possibly other appropriate documents, on an individual basis. We use **🇺🇸**Gusto for U.S. employees and 🇨🇦Remote.com for Canadian employees.
 
-Any personnel changes (such as 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "address"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[address](#heading=h.7q4z7sum67d), dependent changes, etc) can be made directly in Gusto or Remote.
+Any personnel changes (such as[address](INTERNAL LINK TK), dependent changes, etc) can be made directly in Gusto or Remote.
 
 
-## Employee references
+# Employee references
 
 🇺🇸We follow state and local regulations that govern employment references. In some cases, Bloom will only confirm employment and provide employment dates and the positions held in response to third parties inquiries.
 
 🇨🇦 Remote.com can provide [employment verification letters](https://support.remote.com/hc/en-us/articles/4422684040461-How-to-generate-a-standard-employment-verification-letter-on-Remote). If something more is required, please discuss with your manager and/or People Ops.
 
 
-## Workers' compensation
+# Workers' compensation
 
 🇺🇸 Bloom provides insurance for all work-related injuries or illnesses. The name of Bloom's workers' compensation is Next Insurance / Amtrust, and pertinent information is available from People Ops if you need it. Next Insurance / Amtrust governs all insurance benefits provided by Bloom.
 
 🇨🇦 Workers' compensation in Canada is a national program administered by provincial and territorial governments. Remote provides workers compensation insurance with all provinces.
 
 
-## Compliance posters
+# Compliance posters
 
 Organizations are required by law to post compliance posters. No, we are not asking you to put these on your walls at home, so consider this space a digital wall for labor law compliance posters:
 

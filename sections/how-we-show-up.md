@@ -3,7 +3,7 @@ layout: layouts/section
 title: How we show up
 ---
 
-## Personal appearance
+# Personal appearance
 
 You’ll often see coworkers in t-shirts and hoodies, especially for internal meetings. Some adhere to the “[mullet](https://www.fayobserver.com/story/news/regional/2023/07/24/north-carolinas-brantley-kirwin-makes-top-100-in-mullet-contest/70443829007/)” approach: business on top (collared shirt, sweater), party on the bottom (sweatpants, yoga pants).
 
@@ -11,14 +11,9 @@ In client or business development meetings, we try to match our client’s vibe 
 
 We default to cameras on for most meetings, but people often go off camera to eat, move, or just because they’re having a bad hair day  (you’re not, by the way... we like what you're doing with it!).
 
+# Your work from home setup
 
-## Your work from home setup
-
-We expect that everyone at Bloom will have a functional, quiet workspace that supports focus for you and the people you’re meeting with  (which is why we have a 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "remote work stipend"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[remote work stipend](#heading=h.po2w7dxbjir) to help you get set up). 
+We expect that everyone at Bloom will have a functional, quiet workspace that supports focus for you and the people you’re meeting with  (which is why we have a [remote work stipend](INTERNAL LINK TK) to help you get set up). 
 
 For client meetings, make sure your background is neat or consider using a virtual background. If your space is temporarily noisy, use headphones and use mute to reduce the impact on your meetings.
 
@@ -28,9 +23,5 @@ We also encourage you to meet in person with fellow Bloomers if you live in the 
 
 The good people at Dropbox have created a [Virtual First Toolkit](https://experience.dropbox.com/virtual-first-toolkit), which is a great resource for everyone — from WFH novices to people who have been doing this for years. We especially like the section on [creating a healthy WFH experience](https://experience.dropbox.com/virtual-first-toolkit/wellbeing/work-from-home).
 
-If your home network, power, or personal equipment malfunction, 
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "follow our guidance for unplanned time off"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[follow our guidance for unplanned time off](#heading=h.2a491hyurgfd) to let your team know as soon as you’re safe and able.
+If your home network, power, or personal equipment malfunction,[follow our guidance for unplanned time off](INTERNAL LINK TK) to let your team know as soon as you’re safe and able.
 

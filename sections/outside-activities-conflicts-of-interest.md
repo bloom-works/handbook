@@ -10,7 +10,7 @@ Let your manager know if you're considering freelance work that overlaps with wh
 If you are a salaried Bloom employee considering “moonlighting” for another organization in public interest technology, or starting your own enterprise, talk to your manager before you make plans. It may be fine, but we don’t want to be surprised.
 
 
-## Conflict of interest
+# Conflict of interest
 
 We want to avoid both personal and professional conflicts of interest. These conflicts could potentially have negative effects on Bloom which could hurt our reputation, our finances, or could be against the law.
 

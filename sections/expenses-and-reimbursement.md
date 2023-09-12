@@ -10,36 +10,22 @@ When you have reimbursable expenses (like travel costs, professional development
 If you’re expecting a business expense and are uncomfortable waiting for reimbursement, let People Ops know and they’ll work with you to find another solution.
 
 
-## Approval
+# Approval
 
 In general, expenses shouldn’t be a surprise to your manager or People Ops. You need advance approval (via email) for:
 
-* 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Professional development"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Professional development](#heading=h.1g2wtc3ivsz6) spending (from your manager)
-* 
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Travel"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Travel](#heading=h.4buf5vmjr2kl) (from your Engagement Manager and/or manager)
+* [Professional development](INTERNAL LINK TK) spending (from your manager)
+*[Travel](INTERNAL LINK TK) (from your Engagement Manager and/or manager)
 * Gifts (from People Ops)
 
-You don’t need advance approval from your manager to spend your 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "remote work stipend"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[remote work stipend](#heading=h.po2w7dxbjir), but if you’re not sure it’s an eligible expense, check with People Ops before you spend the money. If we can’t approve the expense, we may not reimburse you.
+You don’t need advance approval from your manager to spend your[remote work stipend](INTERNAL LINK TK), but if you’re not sure it’s an eligible expense, check with People Ops before you spend the money. If we can’t approve the expense, we may not reimburse you.
 
 
-## Documentation
+# Documentation
 
 Itemized receipts are required for all expenditures over USD $50 (or equivalent in foreign currency) with the exception of mileage reimbursement, daily meals & incidentals, and gratuities.
 
 Bloom complies with IRS regulations for [accountable plans](https://www.investopedia.com/terms/a/accountableplan.asp#:~:text=According%20to%20IRS%20rules%2C%20under,company%20within%20a%20specified%20timeframe.)  (this is the legal tax thing that lets the IRS differentiate reimbursement from income so you don’t get taxed on reimbursements) which require that all business expenses be substantiated with adequate records. Documentation must include:
-
-
 
 1. The amount of the expenditure.
 2. The date and place of the expenditure.

@@ -10,7 +10,7 @@ This Code of Conduct summarizes anti-harassment law and Bloom policy. We use pla
 We expect all Bloom employees and contractors to exhibit these behaviors and abide by applicable federal, state/provincial, and local laws.
 
 
-## What we expect and why
+# What we expect and why
 
 We strive to create an open, inclusive, and thoughtful culture that empowers people to provide outstanding service for our partners, clients, and members of the public who use what we build. It would be impossible to list everything Bloomers can do to create a welcoming space, and we know this team will find ways to include their coworkers that we haven't even thought of. When in doubt, we encourage you to look to these principles for guidance:
 
@@ -29,7 +29,7 @@ We have a variety of communication tools and forums, including Slack, Zoom, Goog
 We encourage everyone at Bloom to help uphold our expectations for inclusive, welcoming, and professional behavior. If someone makes a mistake or misspeaks, tell them clearly, kindly, and directly. Follow appropriate escalation paths to work towards resolving conflicts or issues constructively. If you need support in giving feedback to a coworker, talk to your manager.
 
 
-## Unacceptable behavior
+# Unacceptable behavior
 
 We do not tolerate unwelcome verbal, written, visual, or physical conduct based on race, color, religion, sex, pregnancy, parental status, marital status, sexual orientation, gender identity, national orientation, age, disability, genetic information, veteran status, military status, or ethnicity. This is called [harassment](https://www.eeoc.gov/harassment) (including [sexual harassment](https://www.eeoc.gov/sexual-harassment)), and it is both illegal and against Bloom policy. [Discrimination](https://www.eeoc.gov/discrimination-type) is also illegal and undermines Bloom’s mission, values, and work.
 
@@ -49,14 +49,14 @@ The following behaviors violate Bloom policy and undermine our culture of respec
 It's impossible to name every action or all words that could be interpreted as harassment. The examples listed here aren't an exhaustive list of objectionable behavior. Make a point of paying attention to others' reactions and stated requests and preferences, respecting their wishes, and treating them in a professional manner. Whenever possible, we want to help each other be kinder, more generous humans while forging a positive culture together.
 
 
-## Integrity
+# Integrity
 
 We have a duty as a partner, vendor, and subcontractor to responsibly care for the intellectual property, security, and integrity of our work. If you become aware of any irregularities indicating actual or suspected loss, fraud, embezzlement, or similar impairment of funds or property, or other suspicious activity, it is your responsibility to report it to a member of the management team.
 
 Similarly, if you question the propriety of a transaction or activity that involves Bloom or employees/contractors of Bloom, or a client, talk to your manager or People Ops.
 
 
-## Violations
+# Violations
 
 If you believe someone (a coworker, manager, partner, or even a client) is violating the code of conduct, report the violation to any manager or, if you prefer, to [safespace@bloomworks.digital](mailto:safespace@bloomworks.digital). While we can’t hold partners and clients accountable to our code of conduct, we do want to know if their behavior or actions are not to our standards so we can support you and have the context we need to choose who we work with.
 

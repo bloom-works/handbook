@@ -13,16 +13,11 @@ During your first few weeks, you’ll start to see meetings appear on your calen
 
 All Bloom-wide meetings occur during our core hours (12 pm - 4:30 pm ET), and most are on Thursdays between 3-4 ET/12-1 PT. If anyone schedules a meeting outside your working hours, let them know — it’s usually a mistake, because time zones are hard.
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image2.png "image_tooltip")
-
 
 Once you’re assigned to a project, you’ll also settle into a cadence of check-ins, planning meetings, and client meetings. Every project has a different rhythm, so your manager can tell you more about what to expect. 
 
-
-## Offsites
+# Offsites
 
 As a distributed team, we make sure to get together in “real life” at least once a year! We hold our annual Bloom Offsite in the late summer or early fall for a chance to meet as a team, hold some workshops, and have some social time together. 
 
