@@ -14,7 +14,7 @@ We default to cameras on for most meetings, but people often go off camera to ea
 
 ## Your work from home setup
 
-We expect that everyone at Bloom will have a functional, quiet workspace that supports focus for you and the people you’re meeting with  (which is why we have a **INTERNAL LINK TK** [remote work stipend](#heading=h.po2w7dxbjir) to help you get set up). 
+We expect that everyone at Bloom will have a functional, quiet workspace that supports focus for you and the people you’re meeting with  (which is why we have a [remote work stipend](/pay-and-benefits/#remote-work-stipend) to help you get set up). 
 
 For client meetings, make sure your background is neat or consider using a virtual background. If your space is temporarily noisy, use headphones and use mute to reduce the impact on your meetings.
 
@@ -24,4 +24,4 @@ We also encourage you to meet in person with fellow Bloomers if you live in the 
 
 The good people at Dropbox have created a [Virtual First Toolkit](https://experience.dropbox.com/virtual-first-toolkit), which is a great resource for everyone — from WFH novices to people who have been doing this for years. We especially like the section on [creating a healthy WFH experience](https://experience.dropbox.com/virtual-first-toolkit/wellbeing/work-from-home).
 
-If your home network, power, or personal equipment malfunction, **INTERNAL LINK TK** [follow our guidance for unplanned time off](#heading=h.2a491hyurgfd) to let your team know as soon as you’re safe and able.
+If your home network, power, or personal equipment malfunction, [follow our guidance for unplanned time off](/time-off/#for-unplanned-time-off-(such-as-illness%2C-weather-events%2C-emergencies)) to let your team know as soon as you’re safe and able.
