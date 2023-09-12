@@ -44,7 +44,7 @@ If the total time commitment is unclear, you can also be paid on an hourly basis
 
 As a temporary employee, you operate much like a salaried employee. Outside of your project work, we want you to invest non-billable time to engage with and help grow Bloom and your practice area (for example, attend quarterly all-hands meetings). We’ll also provide more direct management than we do for contractors.
 
-Note that Bloom employees do not qualify for overtime compensation. See our **INTERNAL LINK TK** [time tracking](#time-tracking-23) section for more information.
+Note that Bloom employees do not qualify for overtime compensation. See our [time tracking](/time-tracking/) section for more information.
 
 
 ## Background checks
