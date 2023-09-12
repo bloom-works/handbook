@@ -13,11 +13,11 @@ If you’re expecting a business expense and are uncomfortable waiting for reimb
 ## Approval
 
 In general, expenses shouldn’t be a surprise to your manager or People Ops. You need advance approval (via email) for:
-* **INTERNAL LINK TK** [Professional development](#heading=h.1g2wtc3ivsz6) spending (from your manager)
-* **INTERNAL LINK TK** [Travel](#heading=h.4buf5vmjr2kl) (from your Engagement Manager and/or manager)
+* [Professional development](/career-growth/) spending (from your manager)
+* [Travel](/travel-and-relocation/) (from your Engagement Manager and/or manager)
 * Gifts (from People Ops)
 
-You don’t need advance approval from your manager to spend your **INTERNAL LINK TK** [remote work stipend](#heading=h.po2w7dxbjir), but if you’re not sure it’s an eligible expense, check with People Ops before you spend the money. If we can’t approve the expense, we may not reimburse you.
+You don’t need advance approval from your manager to spend your [remote work stipend](/pay-and-benefits/#remote-work-stipend), but if you’re not sure it’s an eligible expense, check with People Ops before you spend the money. If we can’t approve the expense, we may not reimburse you.
 
 
 ## Documentation
