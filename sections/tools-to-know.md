@@ -17,7 +17,7 @@ We also use Google Calendar, Google Meet (as an alternative to Zoom), and Google
 
 We currently have two shared Google calendars that are available for all Bloomers:
 
-* [Bloom Calendar](mailto:govbloom.com_ano61avillvl2767i0vfjh9ccg@group.calendar.google.com) 🔒 is where we document Out of Office time, operations deadlines of importance, and general info that needs to be shared with the whole team.
+* [Bloom Calendar](https://calendar.google.com/calendar/u/0?cid=Z292Ymxvb20uY29tX2FubzYxYXZpbGx2bDI3NjdpMHZmamg5Y2NnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) 🔒 is where we document Out of Office time, operations deadlines of importance, and general info that needs to be shared with the whole team.
 * [Bloom Business Development Calendar](https://calendar.google.com/calendar/u/0?cid=Y19rYWtmOWM0aXVqa3UxcWZwdTdzdTJtaWNhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 🔒 is where we track proposal timelines, BD-related events, etc.
 
 **Slack**
@@ -50,7 +50,7 @@ If you want to create a new channel, reach out to [People Ops](mailto:blossom@bl
 * **🇺🇸 Gusto (U.S. salaried employees only)** is the system we use to onboard U.S.-based Bloomers and process payroll. It’s also where you’ll request paid time off and sick leave.
 * **Harvest** is the platform we use for [time tracking](/sections/time-tracking/). This is also where you’ll log [expenses (like travel and reimbursements)](/sections/expenses-and-reimbursement/).
 * **🇨🇦 Remote.com (Canadian employees only)**  is the Gusto of the North. 
-    * **_Why do we use two different tools for the same function?_** At this time, Gusto doesn’t support employees living internationally. At this time, neither platform supports those living in U.S. territories (Puerto Rico or the U.S. Virgin Islands).
+    * **_Why do we use two different tools for the same function?_** At this time, Gusto doesn’t support employees living internationally and neither platform supports those living in U.S. territories.
 * **Zoom** is what we use for partner calls, unless clients prefer Microsoft Teams or Google Meet. Most Bloomers have free account access by default, which limits meetings to 40 minutes. If you think your meeting will run longer, you can either use Google Meet or reach out to your engagement manager to ask if a paid Zoom license is available.
 
 ## Project tools
