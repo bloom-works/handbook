@@ -26,8 +26,7 @@ Your schedule should be clear from looking at your calendar, so coworkers can sc
 
 If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see [personal travel and temporary relocations](/sections/travel-and-relocation/#personal-travel-and-temporary-relocations).)
 
-**IMAGE TK**
-![alt_text](images/image3.png "image_tooltip")
+<img width="1137" alt="Screenshot 2023-09-15 at 4 18 12 PM" src="https://github.com/bloom-works/handbook/assets/127885231/e73eb4dc-060d-4d4b-aa96-01ecca380d86">
 
 You can also set a notification schedule in Slack, which lets coworkers know if they’re messaging you outside your working hours.
 
