@@ -12,7 +12,8 @@ On your personal Bloom calendar, go into the settings by clicking the gear icon 
 * Confirm your working hours
 * Add a secondary time zone to your calendar, so you can see where meetings will land for those across the country (settings > time zone > display secondary time zone)
 
-<img width="929" alt="Screenshot 2023-09-15 at 4 25 05 PM" src="https://github.com/bloom-works/handbook/assets/127885231/adf354fd-f844-49cf-9c48-ce4600f584a5">
+![Screenshot of fake Google meeting titled "1:1: with Rihanna". Under Guests > Guest permissions, all three options are selected: Modify event, Invite others, and See guest list.](img/Google-event-settings-modify-event.png)
+
 
 ## Set your email signature
 
@@ -22,8 +23,7 @@ Here’s a [template](https://docs.google.com/document/d/1RaK-lQacImYNa-fyfDrY5i
 
 This is especially important if you'll be creating any business development or client-facing Bloom documents. Go to the **[Visual Style Guide](https://docs.google.com/document/d/1k5lB6L2Uaiaomw6QZqqNWdDUad_IDbMEEEceI9Cd0Gg/edit#heading=h.g5pyyoerqoo3) 🔒** in Google Docs, then click on the 'style' drop down and set your default styles. The screenshot below shows you exactly how to turn on this default:
 
-<img width="807" alt="Screenshot 2023-09-13 at 2 16 59 PM" src="https://github.com/bloom-works/handbook/assets/127885231/593620d0-bf21-44f1-9eb2-caae32824c0e">
-
+![Screenshot of the Visual Style Guide Google Document with the Styles menu expanded. Expanded menu shows options Normal text, Title, Subtitle, Heading 1, Heading 2, Heading 3, and Options. Options sub-menu is expanded to show Save as my default styles, Use my default styles, and Reset styles. Save as my default styles is selected.](img/Google-docs-save-default-styles.png)
 
 ## Create a Bloom resume 
 

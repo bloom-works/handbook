@@ -13,9 +13,6 @@ During your first few weeks, you’ll start to see meetings appear on your calen
 
 All Bloom-wide meetings occur during our core hours (12 pm - 4:30 pm ET), and most are on Thursdays between 3-4 ET/12-1 PT. If anyone schedules a meeting outside your working hours, let them know — it’s usually a mistake, because time zones are hard.
 
-IMAGE TK
-![alt_text](images/image2.png "image_tooltip")
-
 Once you’re assigned to a project, you’ll also settle into a cadence of check-ins, planning meetings, and client meetings. Every project has a different rhythm, so your manager can tell you more about what to expect.
 
 ## Offsites
