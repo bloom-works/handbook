@@ -45,19 +45,19 @@ If you have any additional questions regarding benefits, contact [People Ops](ma
 
 ## Flexible Spending Accounts (FSA)
 
-🇺🇸For employees who elect to have a flexible spending account (FSA), Bloom matches up to $250 of contributions annually.
+🇺🇸 For employees who elect to have a flexible spending account (FSA), Bloom matches up to $250 of contributions annually.
 
 
-## 🇨🇦Canadian benefits
+## 🇨🇦 Canadian benefits
 
-[Click this link](https://remote.com/benefits-guide/employee-benefits-canada-health-standard-family) to learn aboot current benefits for 🇨🇦 Canadian employees.
+[Learn aboot current benefits for 🇨🇦 Canadian employees.](https://remote.com/benefits-guide/employee-benefits-canada-health-standard-family)
 
 
 ## Remote work stipend
 
 In your first year at Bloom, we’ll reimburse up to USD $1,500 for items that make your home work environment effective, efficient, and comfortable.
 
-Many people use this to [buy a new computer](#computer-and-equipment-12), get a monitor, or set up an ergonomic workspace. 
+Many people use this to [buy a new computer](/sections/your-first-few-weeks/#computer-and-equipment), get a monitor, or set up an ergonomic workspace. 
 
 This does not include ongoing expenses like monthly internet, coworking spaces, coffee to drink at home, or aesthetic touches. This stipend renews after you’ve been at Bloom for 3 years. Reach out to People Ops if you're not sure what your balance is.
 
