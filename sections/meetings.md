@@ -3,6 +3,8 @@ layout: layouts/section
 title: Meetings - what to expect
 ---
 
+## Internal Bloom meetings
+
 During your first few weeks, you’ll start to see meetings appear on your calendar. Here are some of the internal Bloom meetings you can expect:
 
 * **Bloomtime:** These are regular meetings where we share operational updates, Q&As, or training. Attendance is optional unless indicated otherwise.
@@ -12,6 +14,8 @@ During your first few weeks, you’ll start to see meetings appear on your calen
 * **Coffee/Tea Chats:** These are informal meetings we encourage you to have to get to know your coworkers better! They can be one-offs or regular.
 
 All Bloom-wide meetings occur during our core hours (12 pm - 4:30 pm ET), and most are on Thursdays between 3-4 ET/12-1 PT. If anyone schedules a meeting outside your working hours, let them know — it’s usually a mistake, because time zones are hard.
+
+## Project meetings
 
 Once you’re assigned to a project, you’ll also settle into a cadence of check-ins, planning meetings, and client meetings. Every project has a different rhythm, so your manager can tell you more about what to expect.
 

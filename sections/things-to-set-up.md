@@ -12,7 +12,7 @@ On your personal Bloom calendar, go into the settings by clicking the gear icon 
 * Confirm your working hours
 * Add a secondary time zone to your calendar, so you can see where meetings will land for those across the country (settings > time zone > display secondary time zone)
 
-![Screenshot of fake Google meeting titled "1:1: with Rihanna". Under Guests > Guest permissions, all three options are selected: Modify event, Invite others, and See guest list.](img/Google-event-settings-modify-event.png)
+![Screenshot of fake Google meeting titled "1:1: with Rihanna". Under Guests > Guest permissions, all three options are selected: Modify event, Invite others, and See guest list.](/img/Google-event-settings-modify-event.png)
 
 
 ## Set your email signature
@@ -23,7 +23,7 @@ Here’s a [template](https://docs.google.com/document/d/1RaK-lQacImYNa-fyfDrY5i
 
 This is especially important if you'll be creating any business development or client-facing Bloom documents. Go to the **[Visual Style Guide](https://docs.google.com/document/d/1k5lB6L2Uaiaomw6QZqqNWdDUad_IDbMEEEceI9Cd0Gg/edit#heading=h.g5pyyoerqoo3) 🔒** in Google Docs, then click on the 'style' drop down and set your default styles. The screenshot below shows you exactly how to turn on this default:
 
-![Screenshot of the Visual Style Guide Google Document with the Styles menu expanded. Expanded menu shows options Normal text, Title, Subtitle, Heading 1, Heading 2, Heading 3, and Options. Options sub-menu is expanded to show Save as my default styles, Use my default styles, and Reset styles. Save as my default styles is selected.](img/Google-docs-save-default-styles.png)
+![Screenshot of the Visual Style Guide Google Document with the Styles menu expanded. Expanded menu shows options Normal text, Title, Subtitle, Heading 1, Heading 2, Heading 3, and Options. Options sub-menu is expanded to show Save as my default styles, Use my default styles, and Reset styles. Save as my default styles is selected.](/img/Google-docs-save-default-styles.png)
 
 ## Create a Bloom resume 
 
