@@ -26,8 +26,7 @@ Your schedule should be clear from looking at your calendar, so coworkers can sc
 
 If you’re traveling and will be in a different timezone than usual, enable the 'working location' function which will help inform your coworkers of your time change. (And if you’re going further afield, see [personal travel and temporary relocations](/sections/travel-and-relocation/#personal-travel-and-temporary-relocations).)
 
-**IMAGE TK**
-![alt_text](images/image3.png "image_tooltip")
+![Screenshot of Google Calendar settings page showing Working hours and location settings. Enable working hours is selected, and the working hours selected are 9am to 5pm Monday through Friday. The Working location is Home.](/img/Google-calendar-working-hours-and-location.png)
 
 You can also set a notification schedule in Slack, which lets coworkers know if they’re messaging you outside your working hours.
 
