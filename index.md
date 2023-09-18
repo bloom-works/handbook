@@ -17,6 +17,8 @@ This is a 🌲 living handbook 🌲 that we will evolve and adapt as we grow. Fo
 
 We manage contributions and updates in this [Github project](https://github.com/orgs/bloom-works/projects/7).
 
+This handbook was last updated on September 17, 2023.
+
 ## How to contribute
 
 We invite contributions, whether you have a question ( “How do I do ABC?”), want to make a comment or suggestion (“Make it clearer how to do ABC”), or want to contribute changes (“Here’s draft language on how to do ABC”).
