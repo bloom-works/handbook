@@ -22,6 +22,8 @@ Bloom matches 100% of retirement plan contributions up to 6% of your salary.
 
 There’s no vesting period — all of our employees are automatically 100% vested from the start. 
 
+*Starting on January 1, 2024, the 401k match will be 3% regardless of contribution. This change was made to create an additional week of office closure during the summer. For more information, see this [decision doc](https://docs.google.com/document/d/1DpkXkTlGqWEhbfQWY12ZzZYw870zk_ScQH4XncHyT4M/edit#heading=h.o0nvkdv8zref).*
+
 
 ## Healthcare
 

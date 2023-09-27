@@ -23,6 +23,9 @@ Regardless of the type of leave, you need to
     * If you run out of respite leave, talk to your manager about how to take the time you need.
 * Bloom is closed from Christmas (observed) through New Years (observed) each winter (a total of 6 business days). This is considered time off outside of the Floating Holidays, and does not come out of your personal time balance.
 
+*Effective January 1, 2024, Bloom is adjusting our time off policy. Floating holidays will reduce from 8 to 7, personal days from 15 to 13, and we will add an office closure for the week of July 4. For more information, see this [decision doc](https://docs.google.com/document/d/1DpkXkTlGqWEhbfQWY12ZzZYw870zk_ScQH4XncHyT4M/edit#heading=h.o0nvkdv8zref).*
+
+
 ### Jury duty
 
 To provide income protection while you carry out your civic responsibility, Bloom provides the difference between jury duty pay and your regular day’s pay for time spent serving on jury duty. 

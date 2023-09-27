@@ -31,7 +31,7 @@ We encourage everyone at Bloom to help uphold our expectations for inclusive, we
 
 ## Unacceptable behavior
 
-We do not tolerate unwelcome verbal, written, visual, or physical conduct based on race, color, religion, sex, pregnancy, parental status, marital status, sexual orientation, gender identity, national orientation, age, disability, genetic information, veteran status, military status, or ethnicity. This is called [harassment](https://www.eeoc.gov/harassment) (including [sexual harassment](https://www.eeoc.gov/sexual-harassment)), and it is both illegal and against Bloom policy. [Discrimination](https://www.eeoc.gov/discrimination-type) is also illegal and undermines Bloom’s mission, values, and work.
+We do not tolerate unwelcome verbal, written, visual, or physical conduct based on race, color, religion, sex, pregnancy, parental status, marital status, sexual orientation, gender identity, national origin, age, disability, genetic information, veteran status, military status, or ethnicity. This is called [harassment](https://www.eeoc.gov/harassment) (including [sexual harassment](https://www.eeoc.gov/sexual-harassment)), and it is both illegal and against Bloom policy. [Discrimination](https://www.eeoc.gov/discrimination-type) is also illegal and undermines Bloom’s mission, values, and work.
 
 The following behaviors violate Bloom policy and undermine our culture of respect, regardless of whether they rise to the legal definition of harassment:
 
