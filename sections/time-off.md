@@ -115,7 +115,7 @@ If we ask for documentation of a medical condition (yours or someone in your fam
 
 ### Abuse of time off
 
-Abuse of time off, including legally-mandated paid sick leave, may result in disciplinary action up to and including termination. Disciplinary action may be taken if a pattern of potential abuse of time off develops, if an employee is failing to attain necessary goals for his or her position, or if an excessive number of absences occur that are beyond the scope of any approved FMLA leave, approved disability leave, or leave provided as a reasonable accommodation.
+Abuse of time off, including legally-mandated paid sick leave, may result in disciplinary action up to and including termination. Disciplinary action may be taken if a pattern of potential abuse of time off develops, if an employee is failing to attain necessary goals for their position, or if an excessive number of absences occur that are beyond the scope of any approved FMLA leave, approved disability leave, or leave provided as a reasonable accommodation.
 
 
 ### State/provincial and local paid sick leave laws
