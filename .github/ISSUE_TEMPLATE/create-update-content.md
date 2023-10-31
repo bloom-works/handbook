@@ -1,8 +1,8 @@
 ---
 name: Create/update content
 about: Requests to create/update/publish content to the handbook
-title: 'Add content: [TITLE OR TOPIC]'
-labels: content-post-v1
+title: ''
+labels: ''
 assignees: ''
 
 ---
