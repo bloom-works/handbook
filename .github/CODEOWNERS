@@ -1,0 +1,19 @@
+# Each line is a file pattern followed by one or more owners.
+# Order is important; the last matching pattern takes the most
+# precedence. This means that you should put broad things first.
+
+*		@bloom-works/handbook-admins
+
+
+sections/*		@bloom-works/handbook-misc-changes
+sections/code-of-conduct.md		@bloom-works/handbook-policies-and-conduct
+sections/employment-terms-policies.md	@bloom-works/handbook-people-process-and-rituals
+sections/expenses-and-reimbursement.md		@bloom-works/handbook-finances
+
+
+# Groups that are available include:
+# - @bloom-works/handbook-admins
+# - @bloom-works/handbook-finances
+# - @bloom-works/handbook-misc-changes
+# - @bloom-works/handbook-people-process-and-rituals
+# - @bloom-works/handbook-policies-and-conduct
