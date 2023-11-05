@@ -9,6 +9,13 @@ sections/*		@bloom-works/handbook-misc-changes
 sections/code-of-conduct.md		@bloom-works/handbook-policies-and-conduct
 sections/employment-terms-policies.md	@bloom-works/handbook-people-process-and-rituals
 sections/expenses-and-reimbursement.md		@bloom-works/handbook-finances
+sections/leaving-bloom.md		@bloom-works/handbook-people-process-and-rituals
+sections/outside-activities-conflicts-of-interest.md		@bloom-works/handbook-people-process-and-rituals
+sections/pay-and-benefits.md		@bloom-works/handbook-finances
+sections/time-tracking.md 	@bloom-works/handbook-finances @bloom-works/handbook-people-process-and-rituals
+sections/travel-and-relocation.md 	@bloom-works/handbook-finances @bloom-works/handbook-people-process-and-rituals
+sections/working-hours		@bloom-works/handbook-people-process-and-rituals
+index.md	@bloom-works/handbook-people-process-and-rituals
 
 
 # Groups that are available include:
