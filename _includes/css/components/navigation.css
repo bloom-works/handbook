@@ -57,6 +57,7 @@
   justify-content: start;
   background: transparent;
   box-shadow: none;
+  width: 154px;
 }
 
 [data-nav-button="sections"] {
