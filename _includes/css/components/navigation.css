@@ -60,6 +60,10 @@
   width: 154px;
 }
 
+#search-button {
+	width: 154px;
+}
+
 [data-nav-button="sections"] {
   position: absolute;
   inset-block-end: 0;
