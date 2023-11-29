@@ -65,7 +65,7 @@ This does not include ongoing expenses like monthly internet, coworking spaces, 
 
 🇺🇸 Since the tech stipend is a reimbursement of expenses, it’s not subject to income tax in the United States.
 
-After you purchase something, follow [expenses and reimbursement procedures](#expenses-and-reimbursement-procedures-28) to get reimbursed. 
+After you purchase something, follow [expenses and reimbursement procedures](/sections/expenses-and-reimbursement/) to get reimbursed. 
 
 Need suggestions on how to use your stipend? Bloomers have captured some recommendations [in this doc.](https://docs.google.com/document/d/1Pf4L1FK83dumIw3u9i-YEhmYBuAoM-TOFsDcYMuUl6E/edit?usp=sharing)
 

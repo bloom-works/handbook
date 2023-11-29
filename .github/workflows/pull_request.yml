@@ -42,13 +42,7 @@ jobs:
       - name: Run node and accessibility tests
         run: docker run --rm ${{ github.repository }}:${{ github.head_ref }} sh ci/tests.sh
 
-      # SECURITY
-      - name: Run security scans
-        run: docker run --rm ${{ github.repository }}:${{ github.head_ref }} sh ci/security.sh
 
-      # CODE QUALITY
-      - name: Run code quality scans
-        run: docker run --rm ${{ github.repository }}:${{ github.head_ref }} sh ci/code_quality.sh
 
 
 

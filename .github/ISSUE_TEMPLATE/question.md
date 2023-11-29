@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Ask a question about something in or not in the handbook
+about: Get clarity about something in (or not in) the handbook
 title: ''
 labels: question
 assignees: ''
