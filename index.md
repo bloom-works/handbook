@@ -3,6 +3,8 @@ layout: layouts/base
 title: About this handbook
 ---
 
+![A super weird AI generated utensil that shouldn't exist](/img/weird_utensil.png)
+
 This handbook is the source of truth about working at Bloom. It’s for Bloomers new and old to understand policies, norms, and other expectations throughout your time with Bloom. We make much of it open so potential employees can see what Bloom is like, but some links go to internal documents that are either sensitive or in-progress.
 
 The goal of this resource is to support Bloomers and contractors so you can thrive professionally. Your success is critical to fulfilling our mission and providing great services to our clients.
