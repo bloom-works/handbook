@@ -26,7 +26,7 @@ Regardless of the type of leave, you need to
 
 ### Jury duty
 
-To provide income protection while you carry out your civic responsibility, Bloom provides the difference between jury duty pay and your regular day’s pay for time spent serving on jury duty. 
+To provide income protection while you carry out your civic responsibility, Bloom provides the difference between jury duty pay and your regular day’s pay for time spent serving on jury duty.
 
 Generally, we provide income protection for time spent serving on jury duty for a maximum of five workdays. We will consider additional income-protected time away from the workplace for this purpose on a case-by-case basis.
 
@@ -37,11 +37,11 @@ Here is what you need ot do if you have been summoned:
 * If you are called to serve, let those same folks know and keep us updated on the status.
 * Once your service has been completed, send [People Ops](mailto:blossom@bloomworks.digital) your proof of service and log the time under "Jury Duty" in Gusto.
     * If your duty is over 40 hours, you may use unpaid time off or PTO.
-
-
+    * 
 If you’re appearing in your own case as a plaintiff or defendant or for a non-subpoenaed court appearance, you’ll need to use personal time, floating holidays, or unpaid time rather than Jury leave.
 
 *Canadian process coming soon
+
 
 ### Voting
 
