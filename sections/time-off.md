@@ -11,19 +11,17 @@ Work/life balance is an important part of Bloom’s culture. We all need a break
 Regardless of the type of leave, you need to 
 [communicate your plans for all time off](#communicating-time-off). Personal time, floating holidays, and respite leave must be approved by your manager.
 
-* Full-time employees (40 hours per week) accrue up to 120 hours of personal time each calendar year. You accrue 5 hours per pay period.
-* Full-time employees also get 64 hours (8 days) of Floating Holiday time. Use it on any day, not just on federal or state holidays. If you want to celebrate National Ice Cream Day, you do you. We opted for this instead of a regular holiday calendar because we have a diverse group of people, and we want you to choose the days that mean the most to you.
+* Full-time employees (40 hours per week) accrue up to 104 hours (13 days) of personal time each calendar year. You accrue 4.33 hours per pay period.
+* Full-time employees also get 56 hours (7 days) of Floating Holiday time. Use it on any day, not just on federal or state holidays. If you want to celebrate National Ice Cream Day, you do you. We opted for this instead of a regular holiday calendar because we have a diverse group of people, and we want you to choose the days that mean the most to you.
 * Employees who work fewer than 40 hours per week get a prorated amount of personal time and floating holiday time.
 * You can carry over up to 40 hours (5 days) of unused personal time from calendar year to calendar year. Floating Holidays don’t roll over from year to year. Remember, it’s important to take time off regularly — make sure to plan your time off accordingly!
     * You may want to use your floating holidays first, since they don’t carry over.
     * For part-time employees (less than 40 hours per week) the amount of PTO you can carry over from year to year is prorated based on your work hours. For example, someone who works 32 hours per week — or 80% of full time — can carry over 32 hours to a new year.
 * All salaried employees get 80 hours (10 days) of respite leave, which is intended to give you time off when you’re sick, need medical care, or otherwise need rest. This leave balance doesn’t carry over from year to year.
-    * Effective January 1, 2024, for new employees, this leave will be prorated based on when in the calendar year you join.
+    * For new employees, this leave will be prorated based on when in the calendar year you join.
     * Respite leave includes caretaker leave, mental health days, and bereavement.
     * If you run out of respite leave, talk to your manager about how to take the time you need.
-* Bloom is closed from Christmas (observed) through New Years (observed) each winter (a total of 6 business days). This is considered time off outside of the Floating Holidays, and does not come out of your personal time balance.
-
-*Effective January 1, 2024, Bloom is adjusting our time off policy. Floating holidays will reduce from 8 to 7, personal days from 15 to 13, and we will add an office closure for the week of July 4. For more information, see this [decision doc](https://docs.google.com/document/d/1DpkXkTlGqWEhbfQWY12ZzZYw870zk_ScQH4XncHyT4M/edit#heading=h.o0nvkdv8zref).*
+* Bloom is closed from Christmas (observed) through New Years (observed) each winter (a total of 6 business days) and from Canada Day (July 1 or observed) to July 5. This is considered time off outside of the Floating Holidays and does not come out of your personal time balance.
 
 
 ### Jury duty
@@ -34,12 +32,12 @@ Generally, we provide income protection for time spent serving on jury duty for 
 
 All salaried Bloom employees are eligible to receive this benefit.
 
-Here is what you need to do if you  have been summoned:
-* When you get a summons to appear in court, let your engagement manager, director, and [People Ops](mailto:blossom@bloomworks.digital) know that you may be potentially called to duty.
-* If you are called to serve, let those same folks know and keep us updated on the status. 
-* Once you are done, send blossom@ your proof of service and log the time under "Jury Duty" in Gusto.
+Here is what you need ot do if you have been summoned:
+* When you get a summons to appear in court, let your engagement manager, director, and People Ops know that you may be potentially called to duty
+* If you are called to serve, let those same folks know and keep us updated on the status.
+* Once your service has been completed, send [People Ops](mailto:blossom@bloomworks.digital) your proof of service and log the time under "Jury Duty" in Gusto.
     * If your duty is over 40 hours, you may use unpaid time off or PTO.
-
+    * 
 If you’re appearing in your own case as a plaintiff or defendant or for a non-subpoenaed court appearance, you’ll need to use personal time, floating holidays, or unpaid time rather than Jury leave.
 
 *Canadian process coming soon

@@ -23,6 +23,13 @@ Our aim is to advance access and equity by building digital services that work s
 * **Design for impact:** Come with high expectations but be cognizant of constraints. Create processes that people can actually use and build on over time.
 
 
+## Diversity, equity, & inclusion
+
+We envision a world that is made more equitable through better digital public services. Our commitment to diversity, equity, and inclusion (DEI) is woven into everything we do, from our company’s strategy to the makeup of our team, to the work we take on. As a public interest technology company, we see diversity and equity-building as integral to both our mission and our research practices.
+
+We are committed to disrupting power dynamics and equity barriers in our work. We recruit employees and partners who reflect the demographics of targeted end users, and we analyze, test, and iterate to make sure everyone can easily access and use the digital tools we build. As a public benefit company, we are compelled to generate social and public good, and to operate in a responsible and sustainable manner.
+
+
 ## Our community & field
 
 Bloom is a Public Benefit LLC, and a Pennsylvania and Virginia-Certified Small Diverse Business that's recognized by the U.S. Small Business Association as an Economically Disadvantaged Woman-Owned Small Business (EDWOSB), and is Women's Business Enterprise National Council (WBENC) Certified.

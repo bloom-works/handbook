@@ -23,11 +23,11 @@ We strive to create an open, inclusive, and thoughtful culture that empowers peo
 * Assume competence in your coworkers, clients, and the public.
 * Bring humility about the limitations of your own experience and perspective.
 * Treat others’ identities and cultures with respect. Make an effort to say people's names correctly and refer to them by their stated pronouns.
+  * If you are unsure how to pronounce someone's name, ask them how they would like their name pronounced and make an effort to say it correctly
 
 We have a variety of communication tools and forums, including Slack, Zoom, Google Meet, and in-person events, and our code of conduct applies in all of them.
 
 We encourage everyone at Bloom to help uphold our expectations for inclusive, welcoming, and professional behavior. If someone makes a mistake or misspeaks, tell them clearly, kindly, and directly. Follow appropriate escalation paths to work towards resolving conflicts or issues constructively. If you need support in giving feedback to a coworker, talk to your manager.
-
 
 ## Unacceptable behavior
 
