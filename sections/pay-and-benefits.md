@@ -16,13 +16,11 @@ On your work anniversary 🎉, you’ll receive a 2.5% annual cost-of-living inc
 
 Bloom matches 100% of retirement plan contributions up to 6% of your salary.
 
-🇺🇸 Guideline, our 401k admin, will reach out to you directly to set up your account after you join Bloom. Our plan automatically enrolls you for the maximum matched withholding amount (6%), but you can adjust this amount by logging into Guideline.
+🇺🇸 Guideline, our US 401k admin, will reach out to you directly to set up your account after you join Bloom. Our plan has a 3% match, regardless of contribution.
 
 🇨🇦 Remote.com will provide instruction on enroling in an RRSP serviced by CanadaLife. During enrolment, you can adjust your contribution amount, but you should make sure that your contribution falls under the CRA maximum limit or tax penalties might apply.
 
 There’s no vesting period — all of our employees are automatically 100% vested from the start. 
-
-*Starting on January 1, 2024, the 401k match will be 3% regardless of contribution. This change was made to create an additional week of office closure during the summer. For more information, see this [decision doc](https://docs.google.com/document/d/1DpkXkTlGqWEhbfQWY12ZzZYw870zk_ScQH4XncHyT4M/edit#heading=h.o0nvkdv8zref).*
 
 
 ## Healthcare
