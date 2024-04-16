@@ -31,7 +31,7 @@ We invite contributions, whether you have a question ( “How do I do ABC?”), 
     * Other notes, context, concerns, or topics that would be helpful for the handbook team to take action on this.
 * **Contribute updates**: [Open a pull request](https://github.com/bloom-works/handbook/pulls).
 
-For more about how we process and potentially implement changes, see CONTRIBUTING.md.
+For more about how we process and potentially implement changes, see [CONTRIBUTING.md](https://github.com/bloom-works/handbook/blob/main/CONTRIBUTING.md).
 
 ## Contact
 
