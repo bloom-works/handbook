@@ -17,7 +17,7 @@ Remember,  we provide a [remote work stipend for all salaried Bloom folks](/sect
 
 If you want or have equipment recommendations, [Bloomers are populating this doc](https://docs.google.com/document/d/1Pf4L1FK83dumIw3u9i-YEhmYBuAoM-TOFsDcYMuUl6E/edit) to help you out.
 
-### Operatiing Systems
+### Operating Systems
 For security reasons, make sure your device's operating system is the latest version the manufacturer supports. We’ll occasionally check whether your device's OS version, password, and encryption settings are up-to-date when you log into Bloom's Google Workspace. Don’t worry, we won’t peek at your personal data. If we spot anything that needs an update, we’ll let you know.
 
 Wondering if you’re up-to-date? Check the latest operating system versions here:
@@ -51,6 +51,7 @@ We currently have two shared Google calendars that are available for all Bloomer
 
 #### Chrome browser
 We encourage you to use Google Chrome for Bloom work. Set up a separate Chrome profile tied to your Bloom Google Workspace account in order to keep your work and personal activities distinct. That way, your personal browsing stays private and isn’t impacted by our security measures at work.
+
 Setting up a separate profile is easy and ensures that both your work and play can happen smoothly—without getting in each other's way!
 
 #### Slack
