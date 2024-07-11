@@ -5,7 +5,18 @@ title: Travel and relocations
 
 ## Traveling for work
 
-Read Bloom’s travel and expense policy and FAQs: **GDOCS LINK TK**
+For full details, refer to the complete [Bloom Travel Policy](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.47pl3lki3pf7)🔒 but here's a breakdown of key points:
+
+* [Booking Flights](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.a739c3kb1sog): Economy class is standard (lowest class that includes a carryon). Upgrades are at your expense unless medically needed ( you don’t need to provide medical notes…we trust you!). Refundable flights need to be approved by your Engagement Manager or Director.
+* [Baggage & Local Transportation](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.ytsp2luqiigj): Bloom reimburses one checked bag and reasonable local transportation costs (taxis, rideshares, public transit).
+* [Using Your Car](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.xmk1tbeup900)): Mileage is reimbursed at the current GSA rate, plus parking and tolls. You need a valid license and insurance.
+* [Renting a Car](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.khtt5adaknaq): Consider if it's cheaper than alternatives. Choose the appropriate size and avoid pre-paid gas options. Bloom covers gas, parking, and tolls.
+* [Lodging](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.3dzlh96tixf8): Stay within the GSA rate for hotels or short-term rentals. 
+* [Time Management](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.mk14huafwhn2): You don't need to use PTO for Bloom travel (unless taking personal time before, during, or after). Communicate with your team about work/rest schedules.
+* [Meals & Incidentals (M&IE)](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.ywphqv2orz23): Bloom reimburses a set amount for meals, tips, laundry, etc. based on your location (check per diem rates).
+* What's not covered: Personal travel expenses, entertainment, airline club memberships, childcare, traffic citations, etc.
+* [Travel Safety](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.xaoa1fxemq5h): Bloom cares about your well-being. Report any incidents to blossom@bloomworks.digital and your EM/Director/point of contact  while traveling.
+* [Logging Expenses](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit#heading=h.azpbylgna0g): Submit receipts and expense reports in Harvest (or 🇨🇦Remote) within 15 days after travel for timely reimbursement.
 
 ## Personal travel and temporary relocations
 
