@@ -5,7 +5,7 @@ title: Travel and relocations
 
 ## Traveling for work
 
-Read Bloom’s travel and expense policy and FAQs: **GDOCS LINK TK**
+Read [Bloom’s travel and expense policy and FAQs](https://docs.google.com/document/d/1FsO2VgdWZtXfWmf1puzWHcNEuMew60N5RvAIRaqZII4/edit)
 
 ## Personal travel and temporary relocations
 
