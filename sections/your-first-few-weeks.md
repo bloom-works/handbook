@@ -17,6 +17,17 @@ Remember,  we provide a [remote work stipend for all salaried Bloom folks](/sect
 
 If you want or have equipment recommendations, [Bloomers are populating this doc](https://docs.google.com/document/d/1Pf4L1FK83dumIw3u9i-YEhmYBuAoM-TOFsDcYMuUl6E/edit) to help you out.
 
+### Operating Systems
+For security reasons, make sure your device's operating system is the latest version the manufacturer supports. We’ll occasionally check whether your device's OS version, password, and encryption settings are up-to-date when you log into Bloom's Google Workspace. Don’t worry, we won’t peek at your personal data. If we spot anything that needs an update, we’ll let you know.
+
+Wondering if you’re up-to-date? Check the latest operating system versions here:
+
+* For Mac: https://endoflife.date/macos
+
+* For PC: https://endoflife.date/windows
+
+If your device does not support the latest operating system, we recommend you use your remote work stipend to get a more current device.
+
 ## Tools to know
 
 We try to use tools that work with any operating system. This gives Bloomers the ability to use Mac, Windows, Linux, or whatever OS your little heart desires. 
@@ -29,12 +40,19 @@ If you need support on any of these tools, pop into the **#bloom-tech-ops** chan
 
 We’ll issue you a Google-based @bloomworks.digital email address, which serves as your entry point to all the other tools. This is the main address you’ll use to communicate with folks outside of Bloom, and for more formal Bloom messages. 
 
+You'll need to set up multi-factor authentication (MFA) on your Bloom Google account. You can choose from several methods. We suggest using an authenticator app like Google Authenticator, Microsoft Authenticator, or 1Password. If you prefer, you can use a security key—a small USB device that you touch to confirm your login. SMS is the least secure option, and we don’t recommend it.
+
 We also use Google Calendar, Google Meet (as an alternative to Zoom), and Google Groups (for managing permissions and comms). You’ll also get a @govbloom.com email address because not all systems recognize .digital domains.
 
 We currently have two shared Google calendars that are available for all Bloomers:
 
 * [Bloom Calendar](https://calendar.google.com/calendar/u/0?cid=Z292Ymxvb20uY29tX2FubzYxYXZpbGx2bDI3NjdpMHZmamg5Y2NnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) 🔒 is where we document Out of Office time, operations deadlines of importance, and general info that needs to be shared with the whole team.
 * [Bloom Business Development Calendar](https://calendar.google.com/calendar/u/0?cid=Y19rYWtmOWM0aXVqa3UxcWZwdTdzdTJtaWNhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 🔒 is where we track proposal timelines, BD-related events, etc.
+
+#### Chrome browser
+We encourage you to use Google Chrome for Bloom work. Set up a separate Chrome profile tied to your Bloom Google Workspace account in order to keep your work and personal activities distinct. That way, your personal browsing stays private and isn’t impacted by our security measures at work.
+
+Setting up a separate profile is easy and ensures that both your work and play can happen smoothly—without getting in each other's way!
 
 #### Slack
 
