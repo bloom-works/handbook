@@ -14,7 +14,7 @@ On your work anniversary 🎉, you’ll receive a 2.5% annual cost-of-living inc
 
 ## Retirement savings (401k or RRSP)
 
-Bloom matches 100% of retirement plan contributions up to 6% of your salary.
+Bloom matches 100% of retirement plan contributions up to 3% of your salary.
 
 🇺🇸 Guideline, our US 401k admin, will reach out to you directly to set up your account after you join Bloom. Our plan has a 3% match, regardless of contribution.
 
