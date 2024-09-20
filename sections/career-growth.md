@@ -11,12 +11,12 @@ Whatever your role at Bloom, we want it to be clear what we expect of you, as we
 
 Bloom’s current competencies include:
 
-* [Core competencies](https://docs.google.com/document/d/1v3oqU7SLxHu_vWho4gNycP8qx4cAIYKN7BhscHE5EfE/edit#heading=h.bnnn75zcfy5) (these apply to everyone at Bloom)
-* [Product and delivery management](https://docs.google.com/document/d/13iMGuXLjahlCeyOyx65twOpvKMu20Z69H2GrO0NEnSY/edit#heading=h.bnnn75zcfy5)
-* [Engineering](https://docs.google.com/document/d/15B24Z7qR87FHJP87C442XEHy7zG6LHtD3GnCvHKR53Y/edit)
-* [Content](https://docs.google.com/document/d/1hOKrZOsfsOfPY_gUP8mvl6EYLQCnfF21oVo3t4e8zAs/edit#heading=h.bnnn75zcfy5)
-* Design and research [still in development]
-* [Operations](https://docs.google.com/document/d/1T3mjcfLp3tUobpRPx3NEH8sVszG6NMOvyeHlUBB2ZKI/edit#heading=h.bnnn75zcfy5)
+* [Core competencies](https://docs.google.com/document/d/1v3oqU7SLxHu_vWho4gNycP8qx4cAIYKN7BhscHE5EfE/) (these apply to everyone at Bloom)
+* [Product and delivery management](https://docs.google.com/document/d/13iMGuXLjahlCeyOyx65twOpvKMu20Z69H2GrO0NEnSY/)
+* [Engineering](https://docs.google.com/document/d/15B24Z7qR87FHJP87C442XEHy7zG6LHtD3GnCvHKR53Y/)
+* [Content](https://docs.google.com/document/d/1hOKrZOsfsOfPY_gUP8mvl6EYLQCnfF21oVo3t4e8zAs/)
+* [Design](https://docs.google.com/document/d/1BBscB87W8XHfgMqb-g7h2026U9hLqhKAd0fbgeYQX4o/) and [UX Research](https://docs.google.com/document/d/1uWne2_AKoXMrJsjAHTIHPLksH9sxzF3xjCKnc2EdzWY/)
+* [Operations](https://docs.google.com/document/d/1T3mjcfLp3tUobpRPx3NEH8sVszG6NMOvyeHlUBB2ZKI/)
 * Business development [still in development]
 * Leadership [still in development]
 
