@@ -72,7 +72,7 @@ The death of a loved one is a difficult and emotional time, and we want to do ev
 
 We understand that major emergencies can have a significant impact on you and your loved ones’ well-being and safety. To support you during these unexpected moments, we offer paid Emergency Leave for situations in which you are unable to work and need to step away to secure your safety and peace of mind.
 
-Please take a look at [this doc](https://docs.google.com/document/d/1oeWC68MWZTe6NSAnT1RDzrIJoHhp195dVQEacvA30mk/edit?tab=t.0) for more information on how to use this leave.
+Please take a look at [our emergency leave doc](https://docs.google.com/document/d/1oeWC68MWZTe6NSAnT1RDzrIJoHhp195dVQEacvA30mk/edit?tab=t.0) for more information.
 
 ## Communicating time off
 
