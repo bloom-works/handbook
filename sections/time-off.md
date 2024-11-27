@@ -36,8 +36,8 @@ Here is what you need ot do if you have been summoned:
 * When you get a summons to appear in court, let your engagement manager, director, and People Ops know that you may be potentially called to duty
 * If you are called to serve, let those same folks know and keep us updated on the status.
 * Once your service has been completed, send [People Ops](mailto:blossom@bloomworks.digital) your proof of service and log the time under "Jury Duty" in Gusto.
-    * If your duty is over 40 hours, you may use unpaid time off or PTO.
-    * 
+* If your duty is over 40 hours, you may use unpaid time off or PTO.
+
 If you’re appearing in your own case as a plaintiff or defendant or for a non-subpoenaed court appearance, you’ll need to use personal time, floating holidays, or unpaid time rather than Jury leave.
 
 *Canadian process coming soon
@@ -78,7 +78,7 @@ Please take a look at [our emergency leave doc](https://docs.google.com/document
 
 Time off is important, and we want Bloomers to take the time they need. We ask you to request leave in advance and communicate about your leave thoroughly because we need to be able to predict project timelines and manage teams’ workloads responsibly. We try to approve most requests, but don’t make nonrefundable plans before your leave is cleared!
 
-If you need to accommodate an appointment or event during business hours, you may be able to shift your working hours that day instead of taking leave. If you do that, make sure your availability is reflected on your calendar and your manager is aware.
+If you need to accommodate an occasional appointment or event during business hours, you may be able to shift your working hours that day instead of taking leave. If you do that, make sure your availability is reflected on your calendar and your manager is aware. If you want to regularly work an alternate schedule to accommodate recurring committments, work with your team and manager to approve your schedule and make sure it's accurately reflected (see [Working hours](https://handbook.bloomworks.digital/sections/working-hours/)).
 
 
 ### Before taking **planned leave**, be sure to
