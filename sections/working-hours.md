@@ -10,8 +10,7 @@ We love being a remote-first company and getting to work with people from across
 
 As a default, we expect Bloomers to work during normal business hours in their time zone. This allows us to have 4.5 hours of overlap from 12-4:30pm ET (9-1:30pm PT), during which we try to schedule most meetings and can count on each other to be working. 
 
-If you want to work a schedule that does not include 12-4:30pm ET from Monday through Friday, you need approval from your manager.
-
+If you need to work a schedule that does not include 12-4:30pm ET from Monday through Friday, you need approval from your manager.
 
 ## Respecting working hours
 
@@ -31,4 +30,3 @@ If you’re traveling and will be in a different timezone than usual, enable the
 You can also set a notification schedule in Slack, which lets coworkers know if they’re messaging you outside your working hours.
 
 If you’ll be out of the office, see [communicating time off](/sections/time-off/#communicating-time-off).
-
