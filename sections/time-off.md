@@ -78,7 +78,7 @@ Please take a look at [our emergency leave doc](https://docs.google.com/document
 
 Time off is important, and we want Bloomers to take the time they need. We ask you to request leave in advance and communicate about your leave thoroughly because we need to be able to predict project timelines and manage teams’ workloads responsibly. We try to approve most requests, but don’t make nonrefundable plans before your leave is cleared!
 
-If you need to accommodate an occasional appointment or event during business hours, you may be able to shift your working hours that day instead of taking leave. If you do that, make sure your availability is reflected on your calendar and your manager is aware. If you want to regularly work an alternate schedule to accommodate recurring committments, work with your team and manager to approve your schedule and make sure it's accurately reflected (see [Working hours](https://handbook.bloomworks.digital/sections/working-hours/)).
+If you need to accommodate an occasional appointment or event during business hours, you may be able to shift your working hours that day instead of taking leave. If you do that, make sure your availability is reflected on your calendar and your manager is aware. Please make sure your availability is legible to colleagues by setting and communicating your [Working hours](https://handbook.bloomworks.digital/sections/working-hours/).
 
 
 ### Before taking **planned leave**, be sure to
