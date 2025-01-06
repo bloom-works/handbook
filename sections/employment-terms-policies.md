@@ -98,7 +98,7 @@ Organizations are required by law to post compliance posters. No, we are not ask
 * 🇺🇸 [Right to work poster](https://www.e-verify.gov/sites/default/files/everify/posters/IER_RighttoWorkPoster.pdf)
 * 🇺🇸 [Family and Medical Leave Act](https://drive.google.com/file/d/1-Px1Xw_6otnH_SJbUNyKcp4qDmGz-gag/view?usp=sharing)
 * 🇺🇸 [Labor information for your state](https://www.dol.gov/agencies/whd/state/contacts)
-* 🇺🇸 [An exhaustive list of Federal, State, City, and County compliance posters](https://www.posterupdates.com/cityposters.html)
+* 🇺🇸 [A comprehensive list of Federal, State, City, and County compliance posters](https://www.posterupdates.com/cityposters.html)
 * 🇨🇦 [Employment Standards in Ontario](https://files.ontario.ca/mltsd-employment-standards-poster-en-2020-09-08.pdf)
 * 🇨🇦 [Ontario Health & Safety at Work](https://files.ontario.ca/mltsd_2/mltsd-prevention-poster-en-2020-07-22.pdf)
 * 🇨🇦 [Ontario Occupational Health and Safety Act](https://www.ontario.ca/laws/statute/90o01)
