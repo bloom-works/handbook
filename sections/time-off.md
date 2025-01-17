@@ -21,7 +21,7 @@ Regardless of the type of leave, you need to
     * For new employees, this leave will be prorated based on when in the calendar year you join.
     * Respite leave includes caretaker leave, mental health days, and bereavement.
     * If you run out of respite leave, talk to your manager about how to take the time you need.
-* Bloom is closed from Christmas (observed) through New Years (observed) each winter (a total of 6 business days) and from Canada Day (July 1 or observed) to July 5. This is considered time off outside of the Floating Holidays and does not come out of your personal time balance.
+* Bloom is closed from Christmas (observed) through New Years (observed) each winter (a total of 6 business days) and the first week in July to include 🇨🇦Canada Day on July 1 and 🇺🇸Fourth of July. This is considered time off outside of the Floating Holidays and does not come out of your personal time balance.
 
 
 ### Jury duty
