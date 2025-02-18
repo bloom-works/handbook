@@ -9,7 +9,7 @@ Bloom is on a semi-monthly payroll cycle, meaning you get paid twice per month (
 
 We use 🇺🇸 Gusto to administer payroll and benefits for U.S. employees, and 🇨🇦 Remote.com for Canadian employees. Gusto sends all payments via direct deposit (you could ask for a physical check, but it’s not recommended) and you can access your detailed pay stubs online.
 
-All salaried employees will receive a fixed COLA of $3,000 annually on February 1st. Part-time employees will receive a COLA based on their FTE percentage. This flat-dollar approach ensures fairness and reflects the shared impact of living costs.
+All salaried employees will receive a fixed COLA of $3,000 annually in the first week of February. Part-time employees will receive a COLA based on their FTE percentage. This flat-dollar approach ensures fairness and reflects the shared impact of living costs.
 
 ## Retirement savings (401k or RRSP)
 
