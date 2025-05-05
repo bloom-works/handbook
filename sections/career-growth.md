@@ -41,7 +41,9 @@ In general, annual feedback is also when we take the opportunity to discuss prom
 
 ### If there are issues with your performance
 
-If your **performance** isn’t meeting our expectations for your role (as documented in your job description and relevant competencies), we will tell you as quickly and clearly as we can. If your performance or skill level is putting your job at risk, your manager will clearly document the competency levels needed to stay in your role, as well as a timeline for improving performance. We do our best to raise performance issues before they become serious enough to put your job at risk — whenever possible, we want to see folks grow and succeed in their roles.
+If your performance isn’t meeting our expectations for your role (as documented in your job description and relevant competencies), we will tell you as quickly and clearly as we can. If your performance or skill level is putting your job at risk, your manager will clearly document the competency levels needed to stay in your role, as well as a timeline for improving performance. This process is known as a performance improvement plan (PIP).
+We do our best to raise performance issues before they become serious enough to put your job at risk — whenever possible, we want to see folks grow and succeed in their roles.
 
-We treat violations of our **Code of Conduct or values** differently from performance issues. See our [Code of Conduct](/sections/code-of-conduct/) for more about that process.
+To see what a Performance Improvement Plan often looks like, see our [Perfomance Improvement Plan Template](https://docs.google.com/document/d/1d35Onw2tVrYqqqNCa0Va0ujocAdQrcgTbKt72HST4VE/).
+
 
